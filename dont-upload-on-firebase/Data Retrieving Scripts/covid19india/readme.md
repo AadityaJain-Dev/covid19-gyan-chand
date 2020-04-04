@@ -1,4 +1,4 @@
-#Indian Districts stats
+# Indian Districts stats
 
 Retrieving stats of all the districts from covid19india.org [API v2] (https://api.covid19india.org/v2/state_district_wise.json).
 

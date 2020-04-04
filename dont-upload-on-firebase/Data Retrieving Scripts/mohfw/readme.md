@@ -1,4 +1,4 @@
-#Indian States stats
+# Indian States stats
 
 Retrieving stats of all the states from [MoHFW official website] (https://www.mohfw.gov.in/).
 

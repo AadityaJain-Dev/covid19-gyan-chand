@@ -1,4 +1,4 @@
-#All Countries stats
+# All Countries stats
 
 Retrieving stats of all the countries from [worldometers.info website] (https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/).
 
