@@ -1,11 +1,7 @@
-'use strict';
-
 const functions = require('firebase-functions');
 const {WebhookClient} = require('dialogflow-fulfillment');
-const {Card, Suggestion} = require('dialogflow-fulfillment');
 
 
-const cors = require('cors')({ origin: true});
 const admin = require('firebase-admin');
 const serviceAccount = require('./admin-sdk.json');
 const express = require('express');
@@ -16,7 +12,7 @@ admin.initializeApp({
 	databaseURL: "https://eyantra-hackathon-kqmkts.firebaseio.com",
 });
 
-const { SessionsClient } = require('dialogflow');
+
 const app = express()
 
 
@@ -95,31 +91,6 @@ app.post('/firebase-database-india-districts-data', (req, res) => {
 
 
 
-// this api can be used to integrate with any platform or webapp
-app.get('/dialogflow_bot_api', (request, response) => {
-		
-	  cors(request, response, async () => {
-		const { queryInput, sessionId } = request.body;
-
-
-		const sessionClient = new SessionsClient({ credentials: serviceAccount  });
-		const session = sessionClient.sessionPath('eyantra-hackathon-kqmkts', sessionId);
-
-
-		const responses = await sessionClient.detectIntent({ session, queryInput});
-
-		const result = responses[0].queryResult;
-
-		response.send(result);
-	  });  
-
-
-});
-
-
-
-
-
 // route for handeling dialogflow fulfillment
 
 app.post('/dialogflow', express.json(), (req, res) => {
@@ -133,7 +104,16 @@ app.post('/dialogflow', express.json(), (req, res) => {
 	return admin.database().ref('countries-data/'+country_name).once("value").then((snapshot) => {
       var total_deaths = snapshot.child('worldometers_deaths').val();
 	  var total_cases = snapshot.child('worldometers_total_cases').val();
-      agent.add('The total cases in '+country_name+' are: '+total_cases+' and the total death toll is: '+total_deaths+'\n\n. Source: www.worldometers.info\n\n.Disclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');
+	  
+	  
+	  	  	if(agent.locale === 'hi'){
+		// if hindi
+	      agent.add(country_name+'  में अभी तक कुल  '+total_cases+' मामले पाए गए है और अभी तक  '+total_deaths+' लोगों की मृत्यु हो चुकी है डेटा  \n\n. स्रोत: www.worldometers.info\n\n. सुचना: यह डेटा तेज़ी से बदलता है, इसलिए जो दिखाया गया है वह थोड़ा पुराना रिकॉर्ड हो सकता है। और अलग स्रोतों के डेटा अलग हो सकते हैं।');
+	}else{
+		// for english (indian or any)
+	      agent.add('The total cases in '+country_name+' are: '+total_cases+' and the total death toll is: '+total_deaths+'\n\n. Source: www.worldometers.info\n\n.Disclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');	
+	}
+
     });
   }
   
@@ -145,7 +125,17 @@ app.post('/dialogflow', express.json(), (req, res) => {
     //agent.add('Please wait while we fetch latest data from our database.');
 	return admin.database().ref('india-districts-data/'+district_name).once("value").then((snapshot) => {
 	  var total_cases = snapshot.child('covid19india_confirmed_cases').val();
-      agent.add('The total confirmed cases in '+district_name+' are: '+total_cases+'\n\n. Source: www.covid19india.org\n\nDisclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');
+	  
+	  
+	  	  	if(agent.locale === 'hi'){
+		// if hindi
+	      agent.add(district_name+'  में अभी तक कुल '+total_cases+' मामले पाए गए है \n\n. डेटा स्रोत: www.covid19india.org\n\n सुचना: यह डेटा तेज़ी से बदलता है, इसलिए जो दिखाया गया है वह थोड़ा पुराना रिकॉर्ड हो सकता है। और अलग स्रोतों के डेटा अलग हो सकते हैं।');
+	}else{
+		// for english (indian or any)
+	      agent.add('The total confirmed cases in '+district_name+' are: '+total_cases+'\n\n. Source: www.covid19india.org\n\nDisclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');
+	}
+
+      
     });
   }
   
@@ -162,7 +152,15 @@ app.post('/dialogflow', express.json(), (req, res) => {
       var total_cured = snapshot.child('mohfw_cured').val();
 	  var total_deaths = snapshot.child('mohfw_deaths').val();
 	  var total_cases = snapshot.child('mohfw_total').val();
-      agent.add('The total confirmed cases in '+state_name+' are: '+total_cases+' out of which '+total_cured+' are cured or discharged and the total death toll is: '+total_deaths+'\n\n. Source: www.mohfw.gov.in\n\n.Disclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');
+	  
+	  	if(agent.locale === 'hi'){
+		// if hindi
+	      agent.add(state_name+' में अभी तक कुल  '+total_cases+' मामले पाए गए है  जिसमें से '+total_cured+' ठीक या डिस्चार्ज हो गए है और अभी तक  '+total_deaths+' की मृत्यु हो चुकी है \n\n. डेटा स्रोत: www.mohfw.gov.in\n\n. सुचना: यह डेटा तेज़ी से बदलता है, इसलिए जो दिखाया गया है वह थोड़ा पुराना रिकॉर्ड हो सकता है। और अलग स्रोतों के डेटा अलग हो सकते हैं।');
+	}else{
+		// for english (indian or any)
+	      agent.add('The total confirmed cases in '+state_name+' are: '+total_cases+' out of which '+total_cured+' are cured or discharged and the total death toll is: '+total_deaths+'\n\n. Source: www.mohfw.gov.in\n\n.Disclaimer: This data changes rapidly, so what’s shown may be out of date. Also, data from different sources may vary.');	
+	}
+
     });
   }
   
@@ -175,8 +173,13 @@ app.post('/dialogflow', express.json(), (req, res) => {
     // dialogflow function for serving stats from all states of india
   function all_indian_states () {
 	
-	agent.add('We are working on this feature for providing data of all the states in India');	
-
+	if(agent.locale === 'hi'){
+		// if hindi
+	agent.add('यह फ़ंक्शन अभी उपलब्ध नहीं है लेकिन यह जल्द ही उपलब्ध हो जाएगा।');
+	}else{
+		// for english (indian or any)
+	agent.add('This function is currently unavailable but it will get available soon.');	
+	}
   }
   
 
@@ -186,8 +189,13 @@ app.post('/dialogflow', express.json(), (req, res) => {
     // dialogflow function for serving stats from all countries
   function all_countries () {
 	
-	agent.add('We are working on this feature for providing data of all the countries');	
-
+	if(agent.locale === 'hi'){
+		// if hindi
+	agent.add('यह फ़ंक्शन अभी उपलब्ध नहीं है लेकिन यह जल्द ही उपलब्ध हो जाएगा।');
+	}else{
+		// for english (indian or any)
+	agent.add('This function is currently unavailable but it will get available soon.');	
+	}
   }
   
 
@@ -195,16 +203,26 @@ app.post('/dialogflow', express.json(), (req, res) => {
   // dialogflow function for serving stats from all the districts of india
   function all_indian_districts () {
 	
-	agent.add('We are working on this feature for providing data of all the districts in India');	
-
+	if(agent.locale === 'hi'){
+		// if hindi
+	agent.add('यह फ़ंक्शन अभी उपलब्ध नहीं है लेकिन यह जल्द ही उपलब्ध हो जाएगा।');
+	}else{
+		// for english (indian or any)
+	agent.add('This function is currently unavailable but it will get available soon.');	
+	}
   }
   
 
   // dialogflow function for serving latest news from database
   function latest_news () {
 	
-	agent.add('We are working on this feature');	
-
+	if(agent.locale === 'hi'){
+		// if hindi
+	agent.add('यह फ़ंक्शन अभी उपलब्ध नहीं है लेकिन यह जल्द ही उपलब्ध हो जाएगा।');
+	}else{
+		// for english (indian or any)
+	agent.add('This function is currently unavailable but it will get available soon.');	
+	}
   }
 
 
