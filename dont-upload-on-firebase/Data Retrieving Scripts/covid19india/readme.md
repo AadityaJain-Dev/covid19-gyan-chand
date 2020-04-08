@@ -1,6 +1,6 @@
 ## Source www.covid19india.org
 
-I am using [covid19india.org] (https://www.covid19india.org/) API even though they are not official because:
+I am using [covid19india.org](https://www.covid19india.org/) API even though they are not official because:
 
 * They are reliable, I have cross-checked their data.
 * The accuracy of their data is close enough to actual numbers.
