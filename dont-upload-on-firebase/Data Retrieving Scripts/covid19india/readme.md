@@ -9,7 +9,7 @@ I am using [covid19india.org](https://www.covid19india.org/) API even though the
 
 
 
-You can read FAQ's about them [here https://www.covid19india.org/faq](https://www.covid19india.org/faq)
+You can read FAQ's about them [here](https://www.covid19india.org/faq)
 
 
 I am using their data for:
