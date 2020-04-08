@@ -1,7 +1,3 @@
-# Indian Districts stats
-
-Retrieving stats of all the districts from covid19india.org [API v2] (https://api.covid19india.org/v2/state_district_wise.json).
-
 ## Source www.covid19india.org
 
 I am using [covid19india.org] (https://www.covid19india.org/) API even though they are not official because:
@@ -14,3 +10,12 @@ I am using [covid19india.org] (https://www.covid19india.org/) API even though th
 
 
 You can read FAQ's about them [here https://www.covid19india.org/faq] (https://www.covid19india.org/faq)
+
+
+I am using their data for:
+- Stats for all the Districts.
+- Stats for all the Districts.
+- Daily Nationwide Stats.
+
+
+Note: they also have the data for daily corona tests records, will used in in Version 2.

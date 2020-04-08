@@ -1,16 +1,21 @@
 <?php
 
-// dont judge me for this, it was easy to do it this way then editing that whole other file.
+// your cloud function url
+$cloud_function="";
+
+//php hosting url
+$hosting_url="";
 
 
-// API URL, cloud function URL
-$url = '';
+
+// API URL
+$url = "$cloud_function/app/firebase-database-india-districts-data";
 
 // Create a new cURL resource
 $ch = curl_init($url);
 
 // Setup request to send json via POST
-$contents=file_get_contents("https://---------------------/save_data.php");
+$contents=file_get_contents("$hosting_url/covid19india/districts_data.php");
 
 //fixing json
 $contents=str_replace("'",'"',$contents);

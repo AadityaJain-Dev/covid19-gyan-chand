@@ -1,14 +1,22 @@
 <?php
-// dont judge me for this, it was easy to do it this way then editing that whole other file.
 
-// API URL, cloud function ARL
-$url = '';
+
+// your cloud function url
+$cloud_function="";
+
+//php hosting url
+$hosting_url="";
+
+
+
+// API URL
+$url = "$cloud_function/app/firebase-mohfw-news-updates";
 
 // Create a new cURL resource
 $ch = curl_init($url);
 
 // Setup request to send json via POST
-$contents=file_get_contents("https://------------------------/state-data.php");
+$contents=file_get_contents("$hosting_url/mohfw/latest_updates.php");
 
 //fixing json
 $contents=str_replace("'",'"',$contents);
@@ -34,6 +42,6 @@ $result = curl_exec($ch);
 // Close cURL resource
 curl_close($ch);
 
-echo "Data for indian states has been updates";
+echo "Data for 'news updates' from mohfw has been updates";
 
 ?>

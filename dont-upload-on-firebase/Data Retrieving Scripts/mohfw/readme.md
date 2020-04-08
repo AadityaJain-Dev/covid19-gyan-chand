@@ -1,10 +1,6 @@
-# Indian States stats
-
-Retrieving stats of all the states from [MoHFW official website] (https://www.mohfw.gov.in/).
-
 ## Source www.mohfw.gov.in
 
-I am using [www.mohfw.gov.in] (https://www.mohfw.gov.in) website because:
+I am using [www.mohfw.gov.in](https://www.mohfw.gov.in) website because:
 
 * It is maintained by govt officials so it is reliable.
 * The accuracy of their data is close enough to actual numbers.
@@ -13,4 +9,9 @@ I am using [www.mohfw.gov.in] (https://www.mohfw.gov.in) website because:
 
 
 
-You can read about them [here https://www.mohfw.gov.in/] (https://www.mohfw.gov.in/)
+You can read about them [here https://www.mohfw.gov.in/](https://www.mohfw.gov.in/)
+
+
+
+
+I am monoting updates from their website. [MoHFW official website](https://www.mohfw.gov.in/).

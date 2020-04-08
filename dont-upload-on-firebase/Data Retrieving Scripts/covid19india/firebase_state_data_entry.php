@@ -1,6 +1,5 @@
 <?php
 
-
 // your cloud function url
 $cloud_function="";
 
@@ -9,25 +8,22 @@ $hosting_url="";
 
 
 
-
 // API URL
-$url = "$cloud_function/app/firebase-database-countries-data";
+$url = "$cloud_function/app/firebase-database-india-states-data";
 
 // Create a new cURL resource
 $ch = curl_init($url);
 
 // Setup request to send json via POST
-$contents=file_get_contents("$hosting_url/worldometers/save_data.php");
+$contents=file_get_contents("$hosting_url/covid19india/state_data.php");
 
 //fixing json
 $contents=str_replace("'",'"',$contents);
 $contents=str_replace("},}","}}",$contents);
-$contents=str_replace("Japan (+Diamond Princess)","Japan",$contents);
 
 
 //$payload = json_encode($contents);
 $payload = $contents;
-
 
 // Attach encoded JSON string to the POST fields
 curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
@@ -44,6 +40,6 @@ $result = curl_exec($ch);
 // Close cURL resource
 curl_close($ch);
 
-echo "Data for countries has been updates";
+echo "Data for indian states has been updates";
 
 ?>

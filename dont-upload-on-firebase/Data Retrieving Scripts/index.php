@@ -1,1 +1,1 @@
-Read <b>readme.md</b> file for details.
+read <b>"readme.md"</b> for details.
