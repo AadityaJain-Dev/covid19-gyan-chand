@@ -16,14 +16,30 @@ My chatbot ([Gyan Chand](https://eyantra-hackathon-kqmkts.web.app/)) is capable 
 This ability allow the bot to do actions which are not possible with current solution implemented by govt like:
 
 - Ability to integrate with all the social platforms used by the public, including integration with the telephonic line so it can be used without the internet or by people who have old non-smart phones.
-- Ability to send updates via push notification (webapp & mobile app)
+- Ability to send updates via push notification (webapp & mobile app).
+- [Our database is updated automatically, you can view it here.](https://eyantra-hackathon-kqmkts.firebaseio.com/.json) 
 - Ability to provide the latest stats of any Indian state or district.
 - Ability to provide stats of any country in the world.
 - Ability to provide Latest Updated news about the corona.
 - Answer all the frequently asked questions.
 - Provide them helpline numbers.
-- Scheduling a delivery or health checkup.etc
+- Scheduling a delivery or health checkup etc.
 - Since the request can be sent to our server or our API we can process the data & add further functionality. 
+
+
+
+### How we get stats & information 
+
+The database is automaticallly updates with the latest stats & other information.The script we provided **/dont-upload-on-firebase/Data Retrieving Scripts** can automatically fetch the latest data & update our database, we just had to set a cron job. All the required information is available in the folder for easy understanding.
+
+You can see our live [database here](https://eyantra-hackathon-kqmkts.firebaseio.com/.json)
+
+
+
+
+
+
+
 
 
 ### Hardware and Software Requirements
@@ -35,8 +51,8 @@ I used,
 - PHP (Nodejs or python can be used)
 - NodeJs (Firebase clud functiononly support this, else php, python can be used.)
 - NPM
-- Firebase
-- VS Code (or IDE of your choice)
+- Firebase (cloud function & database)
+
 
 
 
