@@ -14,7 +14,7 @@ You can read FAQ's about them [here](https://www.covid19india.org/faq)
 
 I am using their data for:
 - Stats for all the Districts.
-- Stats for all the Districts.
+- Stats for all the States.
 - Daily Nationwide Stats.
 
 
