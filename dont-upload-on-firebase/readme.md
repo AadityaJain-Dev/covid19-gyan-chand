@@ -1,0 +1,1 @@
+These 2 folders are very important. **Data Retrieving Scripts** contain scripts for automatically updating latest stats in our database & **Dialogflow bot files** have a zip which contain all the files required for bot.to deploy it you just have to import the zip in our dialogflow agent.
