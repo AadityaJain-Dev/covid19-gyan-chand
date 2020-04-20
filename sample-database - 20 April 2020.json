@@ -1,1 +1,2573 @@
-{"countries-data":{"Afghanistan":{"worldometers_deaths":"33","worldometers_total_cases":"996"},"Albania":{"worldometers_deaths":"26","worldometers_total_cases":"584"},"Algeria":{"worldometers_deaths":"375","worldometers_total_cases":"2,629"},"Andorra":{"worldometers_deaths":"36","worldometers_total_cases":"713"},"Angola":{"worldometers_deaths":"2","worldometers_total_cases":"24"},"Anguilla":{"worldometers_deaths":"0","worldometers_total_cases":"3"},"Antigua and Barbuda":{"worldometers_deaths":"3","worldometers_total_cases":"23"},"Argentina":{"worldometers_deaths":"134","worldometers_total_cases":"2,941"},"Armenia":{"worldometers_deaths":"22","worldometers_total_cases":"1,339"},"Aruba":{"worldometers_deaths":"2","worldometers_total_cases":"97"},"Australia":{"worldometers_deaths":"71","worldometers_total_cases":"6,619"},"Austria":{"worldometers_deaths":"452","worldometers_total_cases":"14,749"},"Azerbaijan":{"worldometers_deaths":"19","worldometers_total_cases":"1,398"},"Bahamas":{"worldometers_deaths":"9","worldometers_total_cases":"60"},"Bahrain":{"worldometers_deaths":"7","worldometers_total_cases":"1,881"},"Bangladesh":{"worldometers_deaths":"101","worldometers_total_cases":"2,948"},"Barbados":{"worldometers_deaths":"5","worldometers_total_cases":"75"},"Belarus":{"worldometers_deaths":"47","worldometers_total_cases":"4,779"},"Belgium":{"worldometers_deaths":"5,828","worldometers_total_cases":"39,983"},"Belize":{"worldometers_deaths":"2","worldometers_total_cases":"18"},"Benin":{"worldometers_deaths":"1","worldometers_total_cases":"35"},"Bermuda":{"worldometers_deaths":"5","worldometers_total_cases":"86"},"Bhutan":{"worldometers_deaths":"0","worldometers_total_cases":"5"},"Bolivia":{"worldometers_deaths":"33","worldometers_total_cases":"564"},"Bosnia and Herzegovina":{"worldometers_deaths":"48","worldometers_total_cases":"1,285"},"Botswana":{"worldometers_deaths":"1","worldometers_total_cases":"20"},"Brazil":{"worldometers_deaths":"2,462","worldometers_total_cases":"38,654"},"British Virgin Islands":{"worldometers_deaths":"1","worldometers_total_cases":"5"},"Brunei ":{"worldometers_deaths":"1","worldometers_total_cases":"138"},"Bulgaria":{"worldometers_deaths":"43","worldometers_total_cases":"915"},"Burkina Faso":{"worldometers_deaths":"36","worldometers_total_cases":"576"},"Burundi":{"worldometers_deaths":"1","worldometers_total_cases":"5"},"C&ocirc;te dIvoire":{"worldometers_deaths":"9","worldometers_total_cases":"847"},"Cabo Verde":{"worldometers_deaths":"1","worldometers_total_cases":"61"},"Cambodia":{"worldometers_deaths":"0","worldometers_total_cases":"122"},"Cameroon":{"worldometers_deaths":"42","worldometers_total_cases":"1,017"},"Canada":{"worldometers_deaths":"1,587","worldometers_total_cases":"35,056"},"Caribbean Netherlands":{"worldometers_deaths":"0","worldometers_total_cases":"5"},"Cayman Islands":{"worldometers_deaths":"1","worldometers_total_cases":"61"},"Central African Republic":{"worldometers_deaths":"0","worldometers_total_cases":"12"},"Chad":{"worldometers_deaths":"0","worldometers_total_cases":"33"},"Channel Islands":{"worldometers_deaths":"21","worldometers_total_cases":"488"},"Chile":{"worldometers_deaths":"133","worldometers_total_cases":"10,088"},"China":{"worldometers_deaths":"4,632","worldometers_total_cases":"82,747"},"Colombia":{"worldometers_deaths":"179","worldometers_total_cases":"3,792"},"Congo":{"worldometers_deaths":"6","worldometers_total_cases":"143"},"Costa Rica":{"worldometers_deaths":"5","worldometers_total_cases":"660"},"Croatia":{"worldometers_deaths":"47","worldometers_total_cases":"1,871"},"Cuba":{"worldometers_deaths":"34","worldometers_total_cases":"1,035"},"Cura&ccedil;ao":{"worldometers_deaths":"1","worldometers_total_cases":"14"},"Cyprus":{"worldometers_deaths":"12","worldometers_total_cases":"767"},"Czech Republic (Czechia)":{"worldometers_deaths":"188","worldometers_total_cases":"6,787"},"DR Congo":{"worldometers_deaths":"25","worldometers_total_cases":"327"},"Denmark":{"worldometers_deaths":"355","worldometers_total_cases":"7,515"},"Djibouti":{"worldometers_deaths":"2","worldometers_total_cases":"846"},"Dominica":{"worldometers_deaths":"0","worldometers_total_cases":"16"},"Dominican Republic":{"worldometers_deaths":"226","worldometers_total_cases":"4,680"},"Ecuador":{"worldometers_deaths":"474","worldometers_total_cases":"9,468"},"Egypt":{"worldometers_deaths":"239","worldometers_total_cases":"3,144"},"El Salvador":{"worldometers_deaths":"7","worldometers_total_cases":"218"},"Equatorial Guinea":{"worldometers_deaths":"0","worldometers_total_cases":"79"},"Eritrea":{"worldometers_deaths":"0","worldometers_total_cases":"39"},"Estonia":{"worldometers_deaths":"40","worldometers_total_cases":"1,535"},"Eswatini":{"worldometers_deaths":"1","worldometers_total_cases":"22"},"Ethiopia":{"worldometers_deaths":"3","worldometers_total_cases":"108"},"Faeroe Islands":{"worldometers_deaths":"0","worldometers_total_cases":"185"},"Falkland Islands":{"worldometers_deaths":"0","worldometers_total_cases":"11"},"Fiji":{"worldometers_deaths":"0","worldometers_total_cases":"18"},"Finland":{"worldometers_deaths":"94","worldometers_total_cases":"3,868"},"France":{"worldometers_deaths":"19,718","worldometers_total_cases":"152,894"},"French Guiana":{"worldometers_deaths":"0","worldometers_total_cases":"97"},"French Polynesia":{"worldometers_deaths":"0","worldometers_total_cases":"55"},"Gabon":{"worldometers_deaths":"1","worldometers_total_cases":"109"},"Gambia":{"worldometers_deaths":"1","worldometers_total_cases":"10"},"Georgia":{"worldometers_deaths":"4","worldometers_total_cases":"399"},"Germany":{"worldometers_deaths":"4,642","worldometers_total_cases":"145,743"},"Ghana":{"worldometers_deaths":"9","worldometers_total_cases":"1,042"},"Gibraltar":{"worldometers_deaths":"0","worldometers_total_cases":"132"},"Greece":{"worldometers_deaths":"113","worldometers_total_cases":"2,235"},"Greenland":{"worldometers_deaths":"0","worldometers_total_cases":"11"},"Grenada":{"worldometers_deaths":"0","worldometers_total_cases":"14"},"Guadeloupe":{"worldometers_deaths":"8","worldometers_total_cases":"148"},"Guatemala":{"worldometers_deaths":"7","worldometers_total_cases":"289"},"Guinea":{"worldometers_deaths":"5","worldometers_total_cases":"579"},"Guinea-Bissau":{"worldometers_deaths":"0","worldometers_total_cases":"50"},"Guyana":{"worldometers_deaths":"7","worldometers_total_cases":"65"},"Haiti":{"worldometers_deaths":"3","worldometers_total_cases":"47"},"Holy See":{"worldometers_deaths":"0","worldometers_total_cases":"8"},"Honduras":{"worldometers_deaths":"46","worldometers_total_cases":"477"},"Hong Kong":{"worldometers_deaths":"4","worldometers_total_cases":"1,026"},"Hungary":{"worldometers_deaths":"199","worldometers_total_cases":"1,984"},"Iceland":{"worldometers_deaths":"9","worldometers_total_cases":"1,771"},"India":{"worldometers_deaths":"559","worldometers_total_cases":"17,615"},"Indonesia":{"worldometers_deaths":"590","worldometers_total_cases":"6,760"},"Iran":{"worldometers_deaths":"5,118","worldometers_total_cases":"82,211"},"Iraq":{"worldometers_deaths":"82","worldometers_total_cases":"1,539"},"Ireland":{"worldometers_deaths":"610","worldometers_total_cases":"15,251"},"Isle of Man":{"worldometers_deaths":"6","worldometers_total_cases":"298"},"Israel":{"worldometers_deaths":"173","worldometers_total_cases":"13,654"},"Italy":{"worldometers_deaths":"23,660","worldometers_total_cases":"178,972"},"Jamaica":{"worldometers_deaths":"5","worldometers_total_cases":"196"},"Japan":{"worldometers_deaths":"249","worldometers_total_cases":"11,509"},"Jordan":{"worldometers_deaths":"7","worldometers_total_cases":"417"},"Kazakhstan":{"worldometers_deaths":"19","worldometers_total_cases":"1,757"},"Kenya":{"worldometers_deaths":"14","worldometers_total_cases":"270"},"Kuwait":{"worldometers_deaths":"7","worldometers_total_cases":"1,915"},"Kyrgyzstan":{"worldometers_deaths":"7","worldometers_total_cases":"568"},"Laos":{"worldometers_deaths":"0","worldometers_total_cases":"19"},"Latvia":{"worldometers_deaths":"5","worldometers_total_cases":"739"},"Lebanon":{"worldometers_deaths":"21","worldometers_total_cases":"673"},"Liberia":{"worldometers_deaths":"8","worldometers_total_cases":"91"},"Libya":{"worldometers_deaths":"1","worldometers_total_cases":"51"},"Liechtenstein":{"worldometers_deaths":"1","worldometers_total_cases":"81"},"Lithuania":{"worldometers_deaths":"37","worldometers_total_cases":"1,326"},"Luxembourg":{"worldometers_deaths":"73","worldometers_total_cases":"3,550"},"MS Zaandam":{"worldometers_deaths":"2","worldometers_total_cases":"9"},"Macao":{"worldometers_deaths":"0","worldometers_total_cases":"45"},"Madagascar":{"worldometers_deaths":"0","worldometers_total_cases":"121"},"Malawi":{"worldometers_deaths":"2","worldometers_total_cases":"17"},"Malaysia":{"worldometers_deaths":"89","worldometers_total_cases":"5,389"},"Maldives":{"worldometers_deaths":"0","worldometers_total_cases":"52"},"Mali":{"worldometers_deaths":"14","worldometers_total_cases":"224"},"Malta":{"worldometers_deaths":"3","worldometers_total_cases":"427"},"Martinique":{"worldometers_deaths":"12","worldometers_total_cases":"163"},"Mauritania":{"worldometers_deaths":"1","worldometers_total_cases":"7"},"Mauritius":{"worldometers_deaths":"9","worldometers_total_cases":"328"},"Mayotte":{"worldometers_deaths":"4","worldometers_total_cases":"271"},"Mexico":{"worldometers_deaths":"686","worldometers_total_cases":"8,261"},"Moldova":{"worldometers_deaths":"67","worldometers_total_cases":"2,472"},"Monaco":{"worldometers_deaths":"3","worldometers_total_cases":"94"},"Mongolia":{"worldometers_deaths":"0","worldometers_total_cases":"33"},"Montenegro":{"worldometers_deaths":"5","worldometers_total_cases":"311"},"Montserrat":{"worldometers_deaths":"0","worldometers_total_cases":"11"},"Morocco":{"worldometers_deaths":"141","worldometers_total_cases":"2,855"},"Mozambique":{"worldometers_deaths":"0","worldometers_total_cases":"39"},"Myanmar":{"worldometers_deaths":"5","worldometers_total_cases":"111"},"Namibia":{"worldometers_deaths":"0","worldometers_total_cases":"16"},"Nepal":{"worldometers_deaths":"0","worldometers_total_cases":"31"},"Netherlands":{"worldometers_deaths":"3,684","worldometers_total_cases":"32,655"},"New Caledonia":{"worldometers_deaths":"0","worldometers_total_cases":"18"},"New Zealand":{"worldometers_deaths":"12","worldometers_total_cases":"1,440"},"Nicaragua":{"worldometers_deaths":"2","worldometers_total_cases":"10"},"Niger":{"worldometers_deaths":"20","worldometers_total_cases":"648"},"Nigeria":{"worldometers_deaths":"21","worldometers_total_cases":"627"},"North Macedonia":{"worldometers_deaths":"51","worldometers_total_cases":"1,207"},"Norway":{"worldometers_deaths":"165","worldometers_total_cases":"7,103"},"Oman":{"worldometers_deaths":"7","worldometers_total_cases":"1,410"},"Pakistan":{"worldometers_deaths":"176","worldometers_total_cases":"8,418"},"Panama":{"worldometers_deaths":"126","worldometers_total_cases":"4,467"},"Papua New Guinea":{"worldometers_deaths":"0","worldometers_total_cases":"7"},"Paraguay":{"worldometers_deaths":"8","worldometers_total_cases":"208"},"Peru":{"worldometers_deaths":"400","worldometers_total_cases":"15,628"},"Philippines":{"worldometers_deaths":"428","worldometers_total_cases":"6,459"},"Poland":{"worldometers_deaths":"362","worldometers_total_cases":"9,453"},"Portugal":{"worldometers_deaths":"714","worldometers_total_cases":"20,206"},"Qatar":{"worldometers_deaths":"8","worldometers_total_cases":"5,448"},"R&eacute;union":{"worldometers_deaths":"0","worldometers_total_cases":"408"},"Romania":{"worldometers_deaths":"451","worldometers_total_cases":"8,746"},"Russia":{"worldometers_deaths":"405","worldometers_total_cases":"47,121"},"Rwanda":{"worldometers_deaths":"0","worldometers_total_cases":"147"},"Saint Barthelemy":{"worldometers_deaths":"0","worldometers_total_cases":"6"},"Saint Kitts  Nevis":{"worldometers_deaths":"0","worldometers_total_cases":"15"},"Saint Lucia":{"worldometers_deaths":"0","worldometers_total_cases":"15"},"Saint Martin":{"worldometers_deaths":"2","worldometers_total_cases":"37"},"Saint Pierre  Miquelon":{"worldometers_deaths":"0","worldometers_total_cases":"1"},"San Marino":{"worldometers_deaths":"39","worldometers_total_cases":"461"},"Sao Tome  Principe":{"worldometers_deaths":"0","worldometers_total_cases":"4"},"Saudi Arabia":{"worldometers_deaths":"97","worldometers_total_cases":"9,362"},"Senegal":{"worldometers_deaths":"4","worldometers_total_cases":"367"},"Serbia":{"worldometers_deaths":"122","worldometers_total_cases":"6,318"},"Seychelles":{"worldometers_deaths":"0","worldometers_total_cases":"11"},"Sierra Leone":{"worldometers_deaths":"0","worldometers_total_cases":"35"},"Singapore":{"worldometers_deaths":"11","worldometers_total_cases":"8,014"},"Sint Maarten":{"worldometers_deaths":"10","worldometers_total_cases":"67"},"Slovakia":{"worldometers_deaths":"12","worldometers_total_cases":"1,161"},"Slovenia":{"worldometers_deaths":"77","worldometers_total_cases":"1,335"},"Somalia":{"worldometers_deaths":"7","worldometers_total_cases":"164"},"South Africa":{"worldometers_deaths":"54","worldometers_total_cases":"3,158"},"South Korea":{"worldometers_deaths":"236","worldometers_total_cases":"10,674"},"South Sudan":{"worldometers_deaths":"0","worldometers_total_cases":"4"},"Spain":{"worldometers_deaths":"20,852","worldometers_total_cases":"200,210"},"Sri Lanka":{"worldometers_deaths":"7","worldometers_total_cases":"295"},"St Vincent  Grenadines":{"worldometers_deaths":"0","worldometers_total_cases":"12"},"State of Palestine":{"worldometers_deaths":"3","worldometers_total_cases":"449"},"Sudan":{"worldometers_deaths":"12","worldometers_total_cases":"92"},"Suriname":{"worldometers_deaths":"1","worldometers_total_cases":"10"},"Sweden":{"worldometers_deaths":"1,540","worldometers_total_cases":"14,385"},"Switzerland":{"worldometers_deaths":"1,393","worldometers_total_cases":"27,740"},"Syria":{"worldometers_deaths":"3","worldometers_total_cases":"39"},"Taiwan":{"worldometers_deaths":"6","worldometers_total_cases":"422"},"Tanzania":{"worldometers_deaths":"7","worldometers_total_cases":"170"},"Thailand":{"worldometers_deaths":"47","worldometers_total_cases":"2,792"},"Timor-Leste":{"worldometers_deaths":"0","worldometers_total_cases":"22"},"Togo":{"worldometers_deaths":"5","worldometers_total_cases":"84"},"Trinidad and Tobago":{"worldometers_deaths":"8","worldometers_total_cases":"114"},"Tunisia":{"worldometers_deaths":"38","worldometers_total_cases":"879"},"Turkey":{"worldometers_deaths":"2,017","worldometers_total_cases":"86,306"},"Turks and Caicos":{"worldometers_deaths":"1","worldometers_total_cases":"11"},"Uganda":{"worldometers_deaths":"0","worldometers_total_cases":"55"},"Ukraine":{"worldometers_deaths":"151","worldometers_total_cases":"5,710"},"United Arab Emirates":{"worldometers_deaths":"41","worldometers_total_cases":"6,781"},"United Kingdom":{"worldometers_deaths":"16,060","worldometers_total_cases":"120,067"},"United States":{"worldometers_deaths":"40,565","worldometers_total_cases":"764,265"},"Uruguay":{"worldometers_deaths":"10","worldometers_total_cases":"528"},"Uzbekistan":{"worldometers_deaths":"5","worldometers_total_cases":"1,565"},"Venezuela":{"worldometers_deaths":"9","worldometers_total_cases":"256"},"Vietnam":{"worldometers_deaths":"0","worldometers_total_cases":"268"},"Western Sahara":{"worldometers_deaths":"0","worldometers_total_cases":"6"},"Yemen":{"worldometers_deaths":"0","worldometers_total_cases":"1"},"Zambia":{"worldometers_deaths":"3","worldometers_total_cases":"61"},"Zimbabwe":{"worldometers_deaths":"3","worldometers_total_cases":"25"}},"india-districts-data":{"Adilabad":{"covid19india_confirmed_cases":"16"},"Agar Malwa":{"covid19india_confirmed_cases":"4"},"Agra":{"covid19india_confirmed_cases":"242"},"Ahmadabad":{"covid19india_confirmed_cases":"1192"},"Ahmadnagar":{"covid19india_confirmed_cases":"29"},"Aizawl":{"covid19india_confirmed_cases":"1"},"Ajmer":{"covid19india_confirmed_cases":"24"},"Akola":{"covid19india_confirmed_cases":"15"},"Alappuzha":{"covid19india_confirmed_cases":"5"},"Alirajpur":{"covid19india_confirmed_cases":"1"},"Almora":{"covid19india_confirmed_cases":"1"},"Alwar":{"covid19india_confirmed_cases":"7"},"Ambala":{"covid19india_confirmed_cases":"8"},"Amravati":{"covid19india_confirmed_cases":"6"},"Amritsar":{"covid19india_confirmed_cases":"11"},"Amroha":{"covid19india_confirmed_cases":"10"},"Anand":{"covid19india_confirmed_cases":"28"},"Anantapur":{"covid19india_confirmed_cases":"33"},"Anantnag":{"covid19india_confirmed_cases":"2"},"Aravalli":{"covid19india_confirmed_cases":"7"},"Ariyalur":{"covid19india_confirmed_cases":"1"},"Auraiya":{"covid19india_confirmed_cases":"6"},"Aurangabad":{"covid19india_confirmed_cases":"28"},"Azamgarh":{"covid19india_confirmed_cases":"7"},"Badgam":{"covid19india_confirmed_cases":"14"},"Bagalkote":{"covid19india_confirmed_cases":"21"},"Baghpat":{"covid19india_confirmed_cases":"15"},"Baleshwar":{"covid19india_confirmed_cases":"3"},"Ballari":{"covid19india_confirmed_cases":"13"},"Banas Kantha":{"covid19india_confirmed_cases":"10"},"Banda":{"covid19india_confirmed_cases":"3"},"Bandipore":{"covid19india_confirmed_cases":"83"},"Banswara":{"covid19india_confirmed_cases":"61"},"Bara Banki":{"covid19india_confirmed_cases":"1"},"Baramula":{"covid19india_confirmed_cases":"43"},"Bareilly":{"covid19india_confirmed_cases":"6"},"Barmer":{"covid19india_confirmed_cases":"1"},"Barnala":{"covid19india_confirmed_cases":"2"},"Barwani":{"covid19india_confirmed_cases":"22"},"Basti":{"covid19india_confirmed_cases":"19"},"Begusarai":{"covid19india_confirmed_cases":"9"},"Belagavi":{"covid19india_confirmed_cases":"42"},"Bengaluru":{"covid19india_confirmed_cases":"100"},"Bengaluru Rural":{"covid19india_confirmed_cases":"5"},"Betul":{"covid19india_confirmed_cases":"2"},"Bhadohi":{"covid19india_confirmed_cases":"1"},"Bhadradri Kothagudem":{"covid19india_confirmed_cases":"4"},"Bhadrak":{"covid19india_confirmed_cases":"8"},"Bhagalpur":{"covid19india_confirmed_cases":"1"},"Bharatpur":{"covid19india_confirmed_cases":"102"},"Bharuch":{"covid19india_confirmed_cases":"23"},"Bhavnagar":{"covid19india_confirmed_cases":"32"},"Bhilwara":{"covid19india_confirmed_cases":"29"},"Bhiwani":{"covid19india_confirmed_cases":"2"},"Bhojpur":{"covid19india_confirmed_cases":"1"},"Bhopal":{"covid19india_confirmed_cases":"197"},"Bid":{"covid19india_confirmed_cases":"1"},"Bidar":{"covid19india_confirmed_cases":"14"},"Bijnor":{"covid19india_confirmed_cases":"22"},"Bikaner":{"covid19india_confirmed_cases":"37"},"Bilaspur":{"covid19india_confirmed_cases":"1"},"Bokaro":{"covid19india_confirmed_cases":"9"},"Botad":{"covid19india_confirmed_cases":"5"},"Budaun":{"covid19india_confirmed_cases":"8"},"Bulandshahr":{"covid19india_confirmed_cases":"15"},"Buldana":{"covid19india_confirmed_cases":"21"},"Buxar":{"covid19india_confirmed_cases":"4"},"Cachar":{"covid19india_confirmed_cases":"2"},"Chamba":{"covid19india_confirmed_cases":"6"},"Chandigarh":{"covid19india_confirmed_cases":"23"},"Chandrapur":{"covid19india_confirmed_cases":"2"},"Charki Dadri":{"covid19india_confirmed_cases":"1"},"Chengalpattu":{"covid19india_confirmed_cases":"50"},"Chennai":{"covid19india_confirmed_cases":"290"},"Chhindwara":{"covid19india_confirmed_cases":"4"},"Chikkaballapura":{"covid19india_confirmed_cases":"13"},"Chittoor":{"covid19india_confirmed_cases":"53"},"Chota Udaipur":{"covid19india_confirmed_cases":"7"},"Churu":{"covid19india_confirmed_cases":"14"},"Coimbatore":{"covid19india_confirmed_cases":"133"},"Cuddalore":{"covid19india_confirmed_cases":"26"},"Cuttack":{"covid19india_confirmed_cases":"1"},"Dahod":{"covid19india_confirmed_cases":"3"},"Dakshina Kannada":{"covid19india_confirmed_cases":"15"},"Dausa":{"covid19india_confirmed_cases":"13"},"Davanagere":{"covid19india_confirmed_cases":"3"},"Dehradun":{"covid19india_confirmed_cases":"22"},"Dewas":{"covid19india_confirmed_cases":"18"},"Dhanbad":{"covid19india_confirmed_cases":"1"},"Dhar":{"covid19india_confirmed_cases":"10"},"Dharwad":{"covid19india_confirmed_cases":"7"},"Dhaulpur":{"covid19india_confirmed_cases":"1"},"Dhenkanal":{"covid19india_confirmed_cases":"1"},"Dhubri":{"covid19india_confirmed_cases":"4"},"Dhule":{"covid19india_confirmed_cases":"1"},"Dindigul":{"covid19india_confirmed_cases":"74"},"Dungarpur":{"covid19india_confirmed_cases":"5"},"Durg":{"covid19india_confirmed_cases":"1"},"East Delhi":{"covid19india_confirmed_cases":"1"},"East Godavari":{"covid19india_confirmed_cases":"26"},"East Khasi Hills":{"covid19india_confirmed_cases":"7"},"Ernakulam":{"covid19india_confirmed_cases":"24"},"Erode":{"covid19india_confirmed_cases":"70"},"Etawah":{"covid19india_confirmed_cases":"3"},"Evacuees*":{"covid19india_confirmed_cases":"60"},"Faridabad":{"covid19india_confirmed_cases":"42"},"Faridkot":{"covid19india_confirmed_cases":"3"},"Fatehabad":{"covid19india_confirmed_cases":"1"},"Fatehgarh Sahib":{"covid19india_confirmed_cases":"2"},"Firozabad":{"covid19india_confirmed_cases":"48"},"Firozpur":{"covid19india_confirmed_cases":"1"},"Gadag":{"covid19india_confirmed_cases":"3"},"Ganderbal":{"covid19india_confirmed_cases":"14"},"Gandhinagar":{"covid19india_confirmed_cases":"17"},"Gautam Buddha Nagar":{"covid19india_confirmed_cases":"95"},"Gaya":{"covid19india_confirmed_cases":"5"},"Ghaziabad":{"covid19india_confirmed_cases":"41"},"Ghazipur":{"covid19india_confirmed_cases":"5"},"Gir Somnath":{"covid19india_confirmed_cases":"2"},"Giridih":{"covid19india_confirmed_cases":"1"},"Goalpara":{"covid19india_confirmed_cases":"4"},"Golaghat":{"covid19india_confirmed_cases":"1"},"Gomati":{"covid19india_confirmed_cases":"1"},"Gonda":{"covid19india_confirmed_cases":"1"},"Gondiya":{"covid19india_confirmed_cases":"1"},"Gopalganj":{"covid19india_confirmed_cases":"3"},"Guntur":{"covid19india_confirmed_cases":"148"},"Gurdaspur":{"covid19india_confirmed_cases":"2"},"Gurugram":{"covid19india_confirmed_cases":"36"},"Gwalior":{"covid19india_confirmed_cases":"6"},"Hailakandi":{"covid19india_confirmed_cases":"1"},"Hanumangarh":{"covid19india_confirmed_cases":"3"},"Hapur":{"covid19india_confirmed_cases":"16"},"Hardoi":{"covid19india_confirmed_cases":"2"},"Haridwar":{"covid19india_confirmed_cases":"7"},"Hathras":{"covid19india_confirmed_cases":"4"},"Hazaribagh":{"covid19india_confirmed_cases":"2"},"Hingoli":{"covid19india_confirmed_cases":"1"},"Hisar":{"covid19india_confirmed_cases":"2"},"Hooghly":{"covid19india_confirmed_cases":"1"},"Hoshangabad":{"covid19india_confirmed_cases":"19"},"Hoshiarpur":{"covid19india_confirmed_cases":"7"},"Howrah":{"covid19india_confirmed_cases":"1"},"Hyderabad":{"covid19india_confirmed_cases":"486"},"Idukki":{"covid19india_confirmed_cases":"10"},"Imphal East":{"covid19india_confirmed_cases":"1"},"Imphal West":{"covid19india_confirmed_cases":"1"},"Indore":{"covid19india_confirmed_cases":"841"},"Italians*":{"covid19india_confirmed_cases":"14"},"Jabalpur":{"covid19india_confirmed_cases":"13"},"Jagitial":{"covid19india_confirmed_cases":"3"},"Jaipur":{"covid19india_confirmed_cases":"543"},"Jaisalmer":{"covid19india_confirmed_cases":"32"},"Jajapur":{"covid19india_confirmed_cases":"2"},"Jalandhar":{"covid19india_confirmed_cases":"47"},"Jalgaon":{"covid19india_confirmed_cases":"2"},"Jalna":{"covid19india_confirmed_cases":"2"},"Jammu":{"covid19india_confirmed_cases":"26"},"Jamnagar":{"covid19india_confirmed_cases":"1"},"Jangoan":{"covid19india_confirmed_cases":"2"},"Jaunpur":{"covid19india_confirmed_cases":"5"},"Jayashankar":{"covid19india_confirmed_cases":"3"},"Jhalawar":{"covid19india_confirmed_cases":"20"},"Jhunjhunu":{"covid19india_confirmed_cases":"39"},"Jind":{"covid19india_confirmed_cases":"2"},"Jodhpur":{"covid19india_confirmed_cases":"230"},"Jogulamba Gadwal":{"covid19india_confirmed_cases":"26"},"Jorhat":{"covid19india_confirmed_cases":"8"},"Kachchh":{"covid19india_confirmed_cases":"6"},"Kaithal":{"covid19india_confirmed_cases":"2"},"Kalaburagi":{"covid19india_confirmed_cases":"27"},"Kalahandi":{"covid19india_confirmed_cases":"2"},"Kalimpong":{"covid19india_confirmed_cases":"1"},"Kallakurichi":{"covid19india_confirmed_cases":"3"},"Kamareddy":{"covid19india_confirmed_cases":"11"},"Kamrup":{"covid19india_confirmed_cases":"1"},"Kamrup Metropolitan":{"covid19india_confirmed_cases":"6"},"Kancheepuram":{"covid19india_confirmed_cases":"8"},"Kangra":{"covid19india_confirmed_cases":"5"},"Kannauj":{"covid19india_confirmed_cases":"5"},"Kanniyakumari":{"covid19india_confirmed_cases":"16"},"Kannur":{"covid19india_confirmed_cases":"86"},"Kanpur Nagar":{"covid19india_confirmed_cases":"30"},"Kapurthala":{"covid19india_confirmed_cases":"2"},"Karauli":{"covid19india_confirmed_cases":"3"},"Kargil":{"covid19india_confirmed_cases":"4"},"Karimnagar":{"covid19india_confirmed_cases":"19"},"Karnal":{"covid19india_confirmed_cases":"6"},"Karur":{"covid19india_confirmed_cases":"41"},"Kasaragod":{"covid19india_confirmed_cases":"169"},"Kasganj":{"covid19india_confirmed_cases":"3"},"Kaushambi":{"covid19india_confirmed_cases":"2"},"Kendrapara":{"covid19india_confirmed_cases":"2"},"Khammam":{"covid19india_confirmed_cases":"7"},"Khandwa":{"covid19india_confirmed_cases":"33"},"Khargone":{"covid19india_confirmed_cases":"39"},"Kheda":{"covid19india_confirmed_cases":"2"},"Kheri":{"covid19india_confirmed_cases":"4"},"Khordha":{"covid19india_confirmed_cases":"46"},"Kishtwar":{"covid19india_confirmed_cases":"1"},"Kodagu":{"covid19india_confirmed_cases":"1"},"Kodarma":{"covid19india_confirmed_cases":"1"},"Kolhapur":{"covid19india_confirmed_cases":"5"},"Kolkata":{"covid19india_confirmed_cases":"11"},"Kollam":{"covid19india_confirmed_cases":"9"},"Korba":{"covid19india_confirmed_cases":"28"},"Kota":{"covid19india_confirmed_cases":"101"},"Kottayam":{"covid19india_confirmed_cases":"3"},"Kozhikode":{"covid19india_confirmed_cases":"20"},"Krishna":{"covid19india_confirmed_cases":"80"},"Kulgam":{"covid19india_confirmed_cases":"5"},"Kumuram Bheem Asifabad":{"covid19india_confirmed_cases":"3"},"Kupwara":{"covid19india_confirmed_cases":"27"},"Kurnool":{"covid19india_confirmed_cases":"174"},"Kurukshetra":{"covid19india_confirmed_cases":"2"},"Lakhimpur":{"covid19india_confirmed_cases":"1"},"Lakhisarai":{"covid19india_confirmed_cases":"1"},"Latur":{"covid19india_confirmed_cases":"8"},"Leh":{"covid19india_confirmed_cases":"14"},"Lohit":{"covid19india_confirmed_cases":"1"},"Lucknow":{"covid19india_confirmed_cases":"162"},"Ludhiana":{"covid19india_confirmed_cases":"15"},"Madurai":{"covid19india_confirmed_cases":"46"},"Mahabubabad":{"covid19india_confirmed_cases":"1"},"Mahabubnagar":{"covid19india_confirmed_cases":"11"},"Mahe":{"covid19india_confirmed_cases":"1"},"Mahesana":{"covid19india_confirmed_cases":"6"},"Mahisagar":{"covid19india_confirmed_cases":"3"},"Mahrajganj":{"covid19india_confirmed_cases":"6"},"Mainpuri":{"covid19india_confirmed_cases":"4"},"Malappuram":{"covid19india_confirmed_cases":"20"},"Mandsaur":{"covid19india_confirmed_cases":"8"},"Mandya":{"covid19india_confirmed_cases":"12"},"Mansa":{"covid19india_confirmed_cases":"11"},"Mathura":{"covid19india_confirmed_cases":"4"},"Mau":{"covid19india_confirmed_cases":"1"},"Medak":{"covid19india_confirmed_cases":"5"},"Medchal Malkajgiri":{"covid19india_confirmed_cases":"6"},"Medinipur East":{"covid19india_confirmed_cases":"3"},"Meerut":{"covid19india_confirmed_cases":"74"},"Mirzapur":{"covid19india_confirmed_cases":"4"},"Moga":{"covid19india_confirmed_cases":"4"},"Moradabad":{"covid19india_confirmed_cases":"57"},"Morbi":{"covid19india_confirmed_cases":"1"},"Morena":{"covid19india_confirmed_cases":"14"},"Morigaon":{"covid19india_confirmed_cases":"3"},"Mulugu":{"covid19india_confirmed_cases":"2"},"Mumbai":{"covid19india_confirmed_cases":"2268"},"Munger":{"covid19india_confirmed_cases":"20"},"Muzaffarnagar":{"covid19india_confirmed_cases":"7"},"Mysuru":{"covid19india_confirmed_cases":"84"},"Nadia":{"covid19india_confirmed_cases":"5"},"Nagapattinam":{"covid19india_confirmed_cases":"43"},"Nagarkurnool":{"covid19india_confirmed_cases":"2"},"Nagaur":{"covid19india_confirmed_cases":"59"},"Nagpur":{"covid19india_confirmed_cases":"60"},"Nainital":{"covid19india_confirmed_cases":"9"},"Nalanda":{"covid19india_confirmed_cases":"11"},"Nalbari":{"covid19india_confirmed_cases":"3"},"Nalgonda":{"covid19india_confirmed_cases":"15"},"Namakkal":{"covid19india_confirmed_cases":"50"},"Nandurbar":{"covid19india_confirmed_cases":"1"},"Narmada":{"covid19india_confirmed_cases":"12"},"Nashik":{"covid19india_confirmed_cases":"53"},"Nawada":{"covid19india_confirmed_cases":"3"},"New Delhi":{"covid19india_confirmed_cases":"5"},"Nirmal":{"covid19india_confirmed_cases":"17"},"Nizamabad":{"covid19india_confirmed_cases":"58"},"North 24 Parganas":{"covid19india_confirmed_cases":"4"},"North Delhi":{"covid19india_confirmed_cases":"3"},"North East Delhi":{"covid19india_confirmed_cases":"1"},"North Goa":{"covid19india_confirmed_cases":"4"},"North Tripura":{"covid19india_confirmed_cases":"1"},"North West Delhi":{"covid19india_confirmed_cases":"3"},"North and Middle Andaman":{"covid19india_confirmed_cases":"1"},"Nuh":{"covid19india_confirmed_cases":"57"},"Osmanabad":{"covid19india_confirmed_cases":"3"},"Other Region*":{"covid19india_confirmed_cases":"1"},"Other States*":{"covid19india_confirmed_cases":"11"},"Palakkad":{"covid19india_confirmed_cases":"8"},"Palghar":{"covid19india_confirmed_cases":"83"},"Pali":{"covid19india_confirmed_cases":"2"},"Palwal":{"covid19india_confirmed_cases":"34"},"Panch Mahals":{"covid19india_confirmed_cases":"11"},"Panchkula":{"covid19india_confirmed_cases":"17"},"Panipat":{"covid19india_confirmed_cases":"5"},"Parbhani":{"covid19india_confirmed_cases":"1"},"Patan":{"covid19india_confirmed_cases":"15"},"Pathanamthitta":{"covid19india_confirmed_cases":"17"},"Pathankot":{"covid19india_confirmed_cases":"24"},"Patiala":{"covid19india_confirmed_cases":"26"},"Patna":{"covid19india_confirmed_cases":"7"},"Pauri Garhwal":{"covid19india_confirmed_cases":"1"},"Peddapalli":{"covid19india_confirmed_cases":"2"},"Perambalur":{"covid19india_confirmed_cases":"4"},"Pilibhit":{"covid19india_confirmed_cases":"2"},"Porbandar":{"covid19india_confirmed_cases":"3"},"Prakasam":{"covid19india_confirmed_cases":"44"},"Pratapgarh":{"covid19india_confirmed_cases":"6"},"Prayagraj":{"covid19india_confirmed_cases":"1"},"Puducherry":{"covid19india_confirmed_cases":"6"},"Pulwama":{"covid19india_confirmed_cases":"3"},"Pune":{"covid19india_confirmed_cases":"591"},"Puri":{"covid19india_confirmed_cases":"1"},"Rae Bareli":{"covid19india_confirmed_cases":"2"},"Raigarh":{"covid19india_confirmed_cases":"42"},"Raipur":{"covid19india_confirmed_cases":"5"},"Raisen":{"covid19india_confirmed_cases":"8"},"Rajanna Sircilla":{"covid19india_confirmed_cases":"3"},"Rajkot":{"covid19india_confirmed_cases":"38"},"Rajnandgaon":{"covid19india_confirmed_cases":"1"},"Rajouri":{"covid19india_confirmed_cases":"3"},"Ramanathapuram":{"covid19india_confirmed_cases":"10"},"Rampur":{"covid19india_confirmed_cases":"14"},"Ranchi":{"covid19india_confirmed_cases":"24"},"Ranga Reddy":{"covid19india_confirmed_cases":"25"},"Ranipet":{"covid19india_confirmed_cases":"38"},"Ratlam":{"covid19india_confirmed_cases":"12"},"Ratnagiri":{"covid19india_confirmed_cases":"6"},"Rohtak":{"covid19india_confirmed_cases":"1"},"Rupnagar":{"covid19india_confirmed_cases":"3"},"SAS Nagar":{"covid19india_confirmed_cases":"61"},"SPS Nellore":{"covid19india_confirmed_cases":"68"},"Sabar Kantha":{"covid19india_confirmed_cases":"2"},"Sagar":{"covid19india_confirmed_cases":"1"},"Saharanpur":{"covid19india_confirmed_cases":"72"},"Salem":{"covid19india_confirmed_cases":"24"},"Samba":{"covid19india_confirmed_cases":"4"},"Sambhal":{"covid19india_confirmed_cases":"7"},"Sangareddy":{"covid19india_confirmed_cases":"7"},"Sangli":{"covid19india_confirmed_cases":"26"},"Sangrur":{"covid19india_confirmed_cases":"3"},"Sant Kabir Nagar":{"covid19india_confirmed_cases":"1"},"Saran":{"covid19india_confirmed_cases":"1"},"Satara":{"covid19india_confirmed_cases":"11"},"Satna":{"covid19india_confirmed_cases":"2"},"Sawai Madhopur":{"covid19india_confirmed_cases":"4"},"Shahid Bhagat Singh Nagar":{"covid19india_confirmed_cases":"19"},"Shahjahanpur":{"covid19india_confirmed_cases":"1"},"Shajapur":{"covid19india_confirmed_cases":"5"},"Shamli":{"covid19india_confirmed_cases":"23"},"Sheopur":{"covid19india_confirmed_cases":"3"},"Shivpuri":{"covid19india_confirmed_cases":"2"},"Shupiyan":{"covid19india_confirmed_cases":"22"},"Siddipet":{"covid19india_confirmed_cases":"1"},"Sikar":{"covid19india_confirmed_cases":"2"},"Simdega":{"covid19india_confirmed_cases":"2"},"Sindhudurg":{"covid19india_confirmed_cases":"1"},"Sirmaur":{"covid19india_confirmed_cases":"1"},"Sirsa":{"covid19india_confirmed_cases":"4"},"Sitapur":{"covid19india_confirmed_cases":"17"},"Sivaganga":{"covid19india_confirmed_cases":"11"},"Siwan":{"covid19india_confirmed_cases":"29"},"Solan":{"covid19india_confirmed_cases":"9"},"Solapur":{"covid19india_confirmed_cases":"14"},"Sonipat":{"covid19india_confirmed_cases":"7"},"South 24 Parganas":{"covid19india_confirmed_cases":"1"},"South Andaman":{"covid19india_confirmed_cases":"14"},"South Delhi":{"covid19india_confirmed_cases":"26"},"South Salmara Mancachar":{"covid19india_confirmed_cases":"1"},"South West Delhi":{"covid19india_confirmed_cases":"3"},"Sri Muktsar Sahib":{"covid19india_confirmed_cases":"1"},"Srinagar":{"covid19india_confirmed_cases":"78"},"Sundargarh":{"covid19india_confirmed_cases":"2"},"Surat":{"covid19india_confirmed_cases":"244"},"Suryapet":{"covid19india_confirmed_cases":"43"},"Tenkasi":{"covid19india_confirmed_cases":"19"},"Thane":{"covid19india_confirmed_cases":"341"},"Thanjavur":{"covid19india_confirmed_cases":"45"},"The Nilgiris":{"covid19india_confirmed_cases":"9"},"Theni":{"covid19india_confirmed_cases":"44"},"Thiruvallur":{"covid19india_confirmed_cases":"47"},"Thiruvananthapuram":{"covid19india_confirmed_cases":"14"},"Thiruvarur":{"covid19india_confirmed_cases":"27"},"Thoothukkudi":{"covid19india_confirmed_cases":"26"},"Thrissur":{"covid19india_confirmed_cases":"13"},"Tikamgarh":{"covid19india_confirmed_cases":"1"},"Tiruchirappalli":{"covid19india_confirmed_cases":"46"},"Tirunelveli":{"covid19india_confirmed_cases":"64"},"Tirupathur":{"covid19india_confirmed_cases":"17"},"Tiruppur":{"covid19india_confirmed_cases":"108"},"Tiruvannamalai":{"covid19india_confirmed_cases":"8"},"Tonk":{"covid19india_confirmed_cases":"95"},"Tumakuru":{"covid19india_confirmed_cases":"1"},"Udaipur":{"covid19india_confirmed_cases":"4"},"Udham Singh Nagar":{"covid19india_confirmed_cases":"4"},"Udhampur":{"covid19india_confirmed_cases":"20"},"Udupi":{"covid19india_confirmed_cases":"3"},"Ujjain":{"covid19india_confirmed_cases":"31"},"Una":{"covid19india_confirmed_cases":"15"},"Unknown":{"covid19india_confirmed_cases":"4"},"Unnao":{"covid19india_confirmed_cases":"1"},"Uttara Kannada":{"covid19india_confirmed_cases":"10"},"Vadodara":{"covid19india_confirmed_cases":"181"},"Vaishali":{"covid19india_confirmed_cases":"1"},"Varanasi":{"covid19india_confirmed_cases":"14"},"Vellore":{"covid19india_confirmed_cases":"23"},"Vidisha":{"covid19india_confirmed_cases":"13"},"Vijayapura":{"covid19india_confirmed_cases":"21"},"Vikarabad":{"covid19india_confirmed_cases":"37"},"Viluppuram":{"covid19india_confirmed_cases":"37"},"Virudhunagar":{"covid19india_confirmed_cases":"19"},"Visakhapatnam":{"covid19india_confirmed_cases":"21"},"Warangal Urban":{"covid19india_confirmed_cases":"21"},"Washim":{"covid19india_confirmed_cases":"1"},"Wayanad":{"covid19india_confirmed_cases":"3"},"West Delhi":{"covid19india_confirmed_cases":"2"},"West Godavari":{"covid19india_confirmed_cases":"35"},"YSR":{"covid19india_confirmed_cases":"40"},"Yamunanagar":{"covid19india_confirmed_cases":"3"},"Yavatmal":{"covid19india_confirmed_cases":"13"}},"india-mohfw-news-updates":{"0lNbODaW1sLFdKe9g9KkyeAks7n2Md":{"news_text":" Information for general public on use of necessary medicines for COVID19 (Poster)     ","news_url":"https://www.mohfw.gov.in/pdf/HCQPosterFinal.pdf"},"DOaoOE4HUrjiX1QOIOQoIhxhHYK6PA":{"news_text":"  Guidelines to be followed on detection of suspect or confirmed COVID-19 case in a non-COVID Health Facility     ","news_url":"https://www.mohfw.gov.in/pdf/GuidelinestobefollowedondetectionofsuspectorconfirmedCOVID19case.pdf"},"GOYpNEwjHgs9UbwmDztUanIhhn7MKm":{"news_text":"  EoI cum Bid Document for Procurement of Medical Oxygen Cylinder on urgent basis during COVID 19 situation     ","news_url":"https://www.mohfw.gov.in/pdf/MedicalOxygenCylinder.pdf"},"J89UufV34Swzdd0S8fH26wijCs8Guj":{"news_text":"  Consolidated Revised Guidelines on the measures to be taken by Ministries/Department of Government of India, State/UT Governments for containment of Covid-19 ","news_url":"https://www.mohfw.gov.in/pdf/consolidatedrevisedguidelines.pdf"},"PerY8Wd40iXxRaKS3T7KVehdxTGGza":{"news_text":"   Webinar on Mechanical Ventilation for physicians by AIIMS, New Delhi     ","news_url":"https://youtu.be/l_HQTG8MvMU"},"Vso5RcJVUEndXkeN9XCZmkhUCYSm4H":{"news_text":"   Directions from Ministry of Home Affairs to State for promotion of Voluntary Blood Donation     ","news_url":"https://www.mohfw.gov.in/pdf/LetterforUploadingtoWebsite.pdf"},"X0am51zPXtukGrFVfOTROfc59O42b9":{"news_text":"   Preventive Measures to be taken by officals of Ministry of Health and Family Welfare     ","news_url":"https://www.mohfw.gov.in/pdf/preventiveorders.pdf"},"ZpproxnCCoVzVNKFFNzMyv1PJzJpfj":{"news_text":"   Advisory against spraying of disinfectant on people for COVID-19 management     ","news_url":"https://www.mohfw.gov.in/pdf/AdvisoryagainstsprayingofdisinfectantonpeopleforCOVID19managementFinal.pdf"},"nRKX2JlRSGIuNejEZjNT2gl0j7ruhU":{"news_text":" Updated Containment Plan for Large Outbreaks of COVID-19     ","news_url":"https://www.mohfw.gov.in/pdf/UpdatedContainmentPlanforLargeOutbreaksofCOVID19Version2.0.pdf"},"oNzbZoP9kQB6wPRKZ8TJtsY3Mqa9tX":{"news_text":" Guidelines issued by ICMR for Rapid antibody test in Hotspot Area     ","news_url":"https://www.mohfw.gov.in/pdf/ProtocolRapidAntibodytest.pdf"},"rFMbCOUXGNEphrEB6DUTxW9SXtZpYg":{"news_text":" Webinar schedule for training of Physicians officers on COVID-19 and Mechanical Ventilation by AIIMS New Delhi     ","news_url":"https://www.mohfw.gov.in/pdf/MechanicalVentilationWebinarAIIMSNewDelhi.pdf"},"vratQY7niPDLYyWvVA4oufLdx3AEPl":{"news_text":" Information for general public on use of necessary medicines for COVID19 - Audio Visual     ","news_url":"https://youtu.be/cQBo6Bbk0_A"},"zeIYF7w3J8rEImrs26gBTO6UEPuneJ":{"news_text":"  Modification in Medicine List in Telemedicine Practice Guidelines     ","news_url":"https://www.mohfw.gov.in/pdf/ModificationinMedicineListinTelemedicinePracticeGuidelines.pdf"}},"india-states-data":{"Andaman and Nicobar Islands":{"covid19india_active_cases":"4","covid19india_confirmed":"15","covid19india_deaths":"0","covid19india_last_updated":"19/04/2020 16:04:06","covid19india_recovered":"11","covid19india_state_code":"AN","covid19india_state_name":"Andaman and Nicobar Islands"},"Andhra Pradesh":{"covid19india_active_cases":"610","covid19india_confirmed":"722","covid19india_deaths":"20","covid19india_last_updated":"19/04/2020 15:35:05","covid19india_recovered":"92","covid19india_state_code":"AP","covid19india_state_name":"Andhra Pradesh"},"Arunachal Pradesh":{"covid19india_active_cases":"0","covid19india_confirmed":"1","covid19india_deaths":"0","covid19india_last_updated":"16/04/2020 19:33:11","covid19india_recovered":"1","covid19india_state_code":"AR","covid19india_state_name":"Arunachal Pradesh"},"Assam":{"covid19india_active_cases":"17","covid19india_confirmed":"35","covid19india_deaths":"1","covid19india_last_updated":"20/04/2020 08:45:06","covid19india_recovered":"17","covid19india_state_code":"AS","covid19india_state_name":"Assam"},"Bihar":{"covid19india_active_cases":"52","covid19india_confirmed":"96","covid19india_deaths":"2","covid19india_last_updated":"20/04/2020 01:09:14","covid19india_recovered":"42","covid19india_state_code":"BR","covid19india_state_name":"Bihar"},"Chandigarh":{"covid19india_active_cases":"13","covid19india_confirmed":"26","covid19india_deaths":"0","covid19india_last_updated":"19/04/2020 17:45:25","covid19india_recovered":"13","covid19india_state_code":"CH","covid19india_state_name":"Chandigarh"},"Chhattisgarh":{"covid19india_active_cases":"11","covid19india_confirmed":"36","covid19india_deaths":"0","covid19india_last_updated":"18/04/2020 19:36:06","covid19india_recovered":"25","covid19india_state_code":"CT","covid19india_state_name":"Chhattisgarh"},"Dadra and Nagar Haveli":{"covid19india_active_cases":"0","covid19india_confirmed":"0","covid19india_deaths":"0","covid19india_last_updated":"17/04/2020 15:03:07","covid19india_recovered":"0","covid19india_state_code":"DN","covid19india_state_name":"Dadra and Nagar Haveli"},"Daman and Diu":{"covid19india_active_cases":"0","covid19india_confirmed":"0","covid19india_deaths":"0","covid19india_last_updated":"26/03/2020 07:19:29","covid19india_recovered":"0","covid19india_state_code":"DD","covid19india_state_name":"Daman and Diu"},"Delhi":{"covid19india_active_cases":"1668","covid19india_confirmed":"2003","covid19india_deaths":"45","covid19india_last_updated":"19/04/2020 23:18:08","covid19india_recovered":"290","covid19india_state_code":"DL","covid19india_state_name":"Delhi"},"Goa":{"covid19india_active_cases":"0","covid19india_confirmed":"7","covid19india_deaths":"0","covid19india_last_updated":"19/04/2020 17:04:07","covid19india_recovered":"7","covid19india_state_code":"GA","covid19india_state_name":"Goa"},"Gujarat":{"covid19india_active_cases":"1678","covid19india_confirmed":"1851","covid19india_deaths":"67","covid19india_last_updated":"19/04/2020 20:25:15","covid19india_recovered":"106","covid19india_state_code":"GJ","covid19india_state_name":"Gujarat"},"Haryana":{"covid19india_active_cases":"143","covid19india_confirmed":"250","covid19india_deaths":"3","covid19india_last_updated":"19/04/2020 19:39:06","covid19india_recovered":"104","covid19india_state_code":"HR","covid19india_state_name":"Haryana"},"Himachal Pradesh":{"covid19india_active_cases":"21","covid19india_confirmed":"39","covid19india_deaths":"2","covid19india_last_updated":"18/04/2020 19:15:06","covid19india_recovered":"16","covid19india_state_code":"HP","covid19india_state_name":"Himachal Pradesh"},"Jammu and Kashmir":{"covid19india_active_cases":"293","covid19india_confirmed":"354","covid19india_deaths":"5","covid19india_last_updated":"20/04/2020 01:09:13","covid19india_recovered":"56","covid19india_state_code":"JK","covid19india_state_name":"Jammu and Kashmir"},"Jharkhand":{"covid19india_active_cases":"39","covid19india_confirmed":"41","covid19india_deaths":"2","covid19india_last_updated":"19/04/2020 21:23:09","covid19india_recovered":"0","covid19india_state_code":"JH","covid19india_state_name":"Jharkhand"},"Karnataka":{"covid19india_active_cases":"268","covid19india_confirmed":"395","covid19india_deaths":"16","covid19india_last_updated":"19/04/2020 18:06:06","covid19india_recovered":"111","covid19india_state_code":"KA","covid19india_state_name":"Karnataka"},"Kerala":{"covid19india_active_cases":"129","covid19india_confirmed":"401","covid19india_deaths":"2","covid19india_last_updated":"19/04/2020 18:06:06","covid19india_recovered":"270","covid19india_state_code":"KL","covid19india_state_name":"Kerala"},"Ladakh":{"covid19india_active_cases":"4","covid19india_confirmed":"18","covid19india_deaths":"0","covid19india_last_updated":"16/04/2020 15:13:07","covid19india_recovered":"14","covid19india_state_code":"LA","covid19india_state_name":"Ladakh"},"Lakshadweep":{"covid19india_active_cases":"0","covid19india_confirmed":"0","covid19india_deaths":"0","covid19india_last_updated":"26/03/2020 07:19:29","covid19india_recovered":"0","covid19india_state_code":"LD","covid19india_state_name":"Lakshadweep"},"Madhya Pradesh":{"covid19india_active_cases":"1204","covid19india_confirmed":"1407","covid19india_deaths":"72","covid19india_last_updated":"19/04/2020 19:59:06","covid19india_recovered":"131","covid19india_state_code":"MP","covid19india_state_name":"Madhya Pradesh"},"Maharashtra":{"covid19india_active_cases":"3470","covid19india_confirmed":"4200","covid19india_deaths":"223","covid19india_last_updated":"19/04/2020 21:03:06","covid19india_recovered":"507","covid19india_state_code":"MH","covid19india_state_name":"Maharashtra"},"Manipur":{"covid19india_active_cases":"0","covid19india_confirmed":"2","covid19india_deaths":"0","covid19india_last_updated":"20/04/2020 10:04:08","covid19india_recovered":"2","covid19india_state_code":"MN","covid19india_state_name":"Manipur"},"Meghalaya":{"covid19india_active_cases":"10","covid19india_confirmed":"11","covid19india_deaths":"1","covid19india_last_updated":"18/04/2020 12:38:07","covid19india_recovered":"0","covid19india_state_code":"ML","covid19india_state_name":"Meghalaya"},"Mizoram":{"covid19india_active_cases":"1","covid19india_confirmed":"1","covid19india_deaths":"0","covid19india_last_updated":"26/03/2020 07:19:29","covid19india_recovered":"0","covid19india_state_code":"MZ","covid19india_state_name":"Mizoram"},"Nagaland":{"covid19india_active_cases":"0","covid19india_confirmed":"0","covid19india_deaths":"0","covid19india_last_updated":"20/04/2020 08:45:07","covid19india_recovered":"0","covid19india_state_code":"NL","covid19india_state_name":"Nagaland"},"Odisha":{"covid19india_active_cases":"43","covid19india_confirmed":"68","covid19india_deaths":"1","covid19india_last_updated":"20/04/2020 09:25:15","covid19india_recovered":"24","covid19india_state_code":"OR","covid19india_state_name":"Odisha"},"Puducherry":{"covid19india_active_cases":"3","covid19india_confirmed":"7","covid19india_deaths":"0","covid19india_last_updated":"19/04/2020 08:25:07","covid19india_recovered":"4","covid19india_state_code":"PY","covid19india_state_name":"Puducherry"},"Punjab":{"covid19india_active_cases":"191","covid19india_confirmed":"244","covid19india_deaths":"16","covid19india_last_updated":"19/04/2020 20:39:06","covid19india_recovered":"37","covid19india_state_code":"PB","covid19india_state_name":"Punjab"},"Rajasthan":{"covid19india_active_cases":"1266","covid19india_confirmed":"1495","covid19india_deaths":"24","covid19india_last_updated":"20/04/2020 10:04:06","covid19india_recovered":"205","covid19india_state_code":"RJ","covid19india_state_name":"Rajasthan"},"Sikkim":{"covid19india_active_cases":"0","covid19india_confirmed":"0","covid19india_deaths":"0","covid19india_last_updated":"26/03/2020 07:19:29","covid19india_recovered":"0","covid19india_state_code":"SK","covid19india_state_name":"Sikkim"},"Tamil Nadu":{"covid19india_active_cases":"1051","covid19india_confirmed":"1477","covid19india_deaths":"15","covid19india_last_updated":"19/04/2020 18:44:11","covid19india_recovered":"411","covid19india_state_code":"TN","covid19india_state_name":"Tamil Nadu"},"Telangana":{"covid19india_active_cases":"651","covid19india_confirmed":"858","covid19india_deaths":"21","covid19india_last_updated":"19/04/2020 21:23:08","covid19india_recovered":"186","covid19india_state_code":"TG","covid19india_state_name":"Telangana"},"Total":{"covid19india_active_cases":"14091","covid19india_confirmed":"17545","covid19india_deaths":"567","covid19india_last_updated":"20/04/2020 10:04:05","covid19india_recovered":"2887","covid19india_state_code":"TT","covid19india_state_name":"Total"},"Tripura":{"covid19india_active_cases":"1","covid19india_confirmed":"2","covid19india_deaths":"0","covid19india_last_updated":"10/04/2020 20:00:27","covid19india_recovered":"1","covid19india_state_code":"TR","covid19india_state_name":"Tripura"},"Uttar Pradesh":{"covid19india_active_cases":"956","covid19india_confirmed":"1100","covid19india_deaths":"17","covid19india_last_updated":"20/04/2020 01:09:12","covid19india_recovered":"127","covid19india_state_code":"UP","covid19india_state_name":"Uttar Pradesh"},"Uttarakhand":{"covid19india_active_cases":"33","covid19india_confirmed":"44","covid19india_deaths":"0","covid19india_last_updated":"18/04/2020 15:26:17","covid19india_recovered":"11","covid19india_state_code":"UT","covid19india_state_name":"Uttarakhand"},"West Bengal":{"covid19india_active_cases":"261","covid19india_confirmed":"339","covid19india_deaths":"12","covid19india_last_updated":"20/04/2020 09:25:14","covid19india_recovered":"66","covid19india_state_code":"WB","covid19india_state_name":"West Bengal"}},"india-states-helplineumber":{"Andaman and Nicobar Islands":{"helpline_no":"03192-232102"},"Andhra Pradesh":{"helpline_no":"0866-2410978"},"Arunachal Pradesh":{"helpline_no":"9436055743"},"Assam":{"helpline_no":"6913347770"},"Bihar":{"helpline_no":"104"},"Chandigarh":{"helpline_no":"104"},"Chhattisgarh":{"helpline_no":"104"},"Delhi":{"helpline_no":"011-22307145"},"Goa":{"helpline_no":"104"},"Gujarat":{"helpline_no":"104"},"Haryana":{"helpline_no":"8558893911"},"Himachal Pradesh":{"helpline_no":"104"},"Jammu and Kashmir":{"helpline_no":"01912520982, 0194-2440283"},"Jharkhand":{"helpline_no":"104"},"Karnataka":{"helpline_no":"104"},"Kerala":{"helpline_no":"0471-2552056"},"Ladakh":{"helpline_no":"01982256462"},"Madhya Pradesh":{"helpline_no":"104"},"Maharashtra":{"helpline_no":"020-26127394"},"Manipur":{"helpline_no":"3852411668"},"Mizoram":{"helpline_no":"102"},"Odisha":{"helpline_no":"9439994859"},"Puducherry":{"helpline_no":"104"},"Punjab":{"helpline_no":"104"},"Rajasthan":{"helpline_no":"0141-2225624"},"Tamil Nadu":{"helpline_no":"044-29510500"},"Telengana":{"helpline_no":"104"},"Uttar Pradesh":{"helpline_no":"18001805145"},"Uttarakhand":{"helpline_no":"104"},"West Bengal":{"helpline_no":"1800313444222, 03323412600"}}}
+{
+  "countries-data": {
+    "Afghanistan": {
+      "worldometers_deaths": "33",
+      "worldometers_total_cases": "996"
+    },
+    "Albania": {
+      "worldometers_deaths": "26",
+      "worldometers_total_cases": "584"
+    },
+    "Algeria": {
+      "worldometers_deaths": "375",
+      "worldometers_total_cases": "2,629"
+    },
+    "Andorra": {
+      "worldometers_deaths": "36",
+      "worldometers_total_cases": "713"
+    },
+    "Angola": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "24"
+    },
+    "Anguilla": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "3"
+    },
+    "Antigua and Barbuda": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "23"
+    },
+    "Argentina": {
+      "worldometers_deaths": "134",
+      "worldometers_total_cases": "2,941"
+    },
+    "Armenia": {
+      "worldometers_deaths": "22",
+      "worldometers_total_cases": "1,339"
+    },
+    "Aruba": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "97"
+    },
+    "Australia": {
+      "worldometers_deaths": "71",
+      "worldometers_total_cases": "6,619"
+    },
+    "Austria": {
+      "worldometers_deaths": "452",
+      "worldometers_total_cases": "14,749"
+    },
+    "Azerbaijan": {
+      "worldometers_deaths": "19",
+      "worldometers_total_cases": "1,398"
+    },
+    "Bahamas": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "60"
+    },
+    "Bahrain": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "1,881"
+    },
+    "Bangladesh": {
+      "worldometers_deaths": "101",
+      "worldometers_total_cases": "2,948"
+    },
+    "Barbados": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "75"
+    },
+    "Belarus": {
+      "worldometers_deaths": "47",
+      "worldometers_total_cases": "4,779"
+    },
+    "Belgium": {
+      "worldometers_deaths": "5,828",
+      "worldometers_total_cases": "39,983"
+    },
+    "Belize": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "18"
+    },
+    "Benin": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "35"
+    },
+    "Bermuda": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "86"
+    },
+    "Bhutan": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "5"
+    },
+    "Bolivia": {
+      "worldometers_deaths": "33",
+      "worldometers_total_cases": "564"
+    },
+    "Bosnia and Herzegovina": {
+      "worldometers_deaths": "48",
+      "worldometers_total_cases": "1,285"
+    },
+    "Botswana": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "20"
+    },
+    "Brazil": {
+      "worldometers_deaths": "2,462",
+      "worldometers_total_cases": "38,654"
+    },
+    "British Virgin Islands": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "5"
+    },
+    "Brunei ": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "138"
+    },
+    "Bulgaria": {
+      "worldometers_deaths": "43",
+      "worldometers_total_cases": "915"
+    },
+    "Burkina Faso": {
+      "worldometers_deaths": "36",
+      "worldometers_total_cases": "576"
+    },
+    "Burundi": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "5"
+    },
+    "C&ocirc;te dIvoire": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "847"
+    },
+    "Cabo Verde": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "61"
+    },
+    "Cambodia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "122"
+    },
+    "Cameroon": {
+      "worldometers_deaths": "42",
+      "worldometers_total_cases": "1,017"
+    },
+    "Canada": {
+      "worldometers_deaths": "1,587",
+      "worldometers_total_cases": "35,056"
+    },
+    "Caribbean Netherlands": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "5"
+    },
+    "Cayman Islands": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "61"
+    },
+    "Central African Republic": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "12"
+    },
+    "Chad": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "33"
+    },
+    "Channel Islands": {
+      "worldometers_deaths": "21",
+      "worldometers_total_cases": "488"
+    },
+    "Chile": {
+      "worldometers_deaths": "133",
+      "worldometers_total_cases": "10,088"
+    },
+    "China": {
+      "worldometers_deaths": "4,632",
+      "worldometers_total_cases": "82,747"
+    },
+    "Colombia": {
+      "worldometers_deaths": "179",
+      "worldometers_total_cases": "3,792"
+    },
+    "Congo": {
+      "worldometers_deaths": "6",
+      "worldometers_total_cases": "143"
+    },
+    "Costa Rica": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "660"
+    },
+    "Croatia": {
+      "worldometers_deaths": "47",
+      "worldometers_total_cases": "1,871"
+    },
+    "Cuba": {
+      "worldometers_deaths": "34",
+      "worldometers_total_cases": "1,035"
+    },
+    "Cura&ccedil;ao": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "14"
+    },
+    "Cyprus": {
+      "worldometers_deaths": "12",
+      "worldometers_total_cases": "767"
+    },
+    "Czech Republic (Czechia)": {
+      "worldometers_deaths": "188",
+      "worldometers_total_cases": "6,787"
+    },
+    "DR Congo": {
+      "worldometers_deaths": "25",
+      "worldometers_total_cases": "327"
+    },
+    "Denmark": {
+      "worldometers_deaths": "355",
+      "worldometers_total_cases": "7,515"
+    },
+    "Djibouti": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "846"
+    },
+    "Dominica": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "16"
+    },
+    "Dominican Republic": {
+      "worldometers_deaths": "226",
+      "worldometers_total_cases": "4,680"
+    },
+    "Ecuador": {
+      "worldometers_deaths": "474",
+      "worldometers_total_cases": "9,468"
+    },
+    "Egypt": {
+      "worldometers_deaths": "239",
+      "worldometers_total_cases": "3,144"
+    },
+    "El Salvador": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "218"
+    },
+    "Equatorial Guinea": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "79"
+    },
+    "Eritrea": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "39"
+    },
+    "Estonia": {
+      "worldometers_deaths": "40",
+      "worldometers_total_cases": "1,535"
+    },
+    "Eswatini": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "22"
+    },
+    "Ethiopia": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "108"
+    },
+    "Faeroe Islands": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "185"
+    },
+    "Falkland Islands": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "11"
+    },
+    "Fiji": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "18"
+    },
+    "Finland": {
+      "worldometers_deaths": "94",
+      "worldometers_total_cases": "3,868"
+    },
+    "France": {
+      "worldometers_deaths": "19,718",
+      "worldometers_total_cases": "152,894"
+    },
+    "French Guiana": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "97"
+    },
+    "French Polynesia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "55"
+    },
+    "Gabon": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "109"
+    },
+    "Gambia": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "10"
+    },
+    "Georgia": {
+      "worldometers_deaths": "4",
+      "worldometers_total_cases": "399"
+    },
+    "Germany": {
+      "worldometers_deaths": "4,642",
+      "worldometers_total_cases": "145,743"
+    },
+    "Ghana": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "1,042"
+    },
+    "Gibraltar": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "132"
+    },
+    "Greece": {
+      "worldometers_deaths": "113",
+      "worldometers_total_cases": "2,235"
+    },
+    "Greenland": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "11"
+    },
+    "Grenada": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "14"
+    },
+    "Guadeloupe": {
+      "worldometers_deaths": "8",
+      "worldometers_total_cases": "148"
+    },
+    "Guatemala": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "289"
+    },
+    "Guinea": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "579"
+    },
+    "Guinea-Bissau": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "50"
+    },
+    "Guyana": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "65"
+    },
+    "Haiti": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "47"
+    },
+    "Holy See": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "8"
+    },
+    "Honduras": {
+      "worldometers_deaths": "46",
+      "worldometers_total_cases": "477"
+    },
+    "Hong Kong": {
+      "worldometers_deaths": "4",
+      "worldometers_total_cases": "1,026"
+    },
+    "Hungary": {
+      "worldometers_deaths": "199",
+      "worldometers_total_cases": "1,984"
+    },
+    "Iceland": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "1,771"
+    },
+    "India": {
+      "worldometers_deaths": "559",
+      "worldometers_total_cases": "17,615"
+    },
+    "Indonesia": {
+      "worldometers_deaths": "590",
+      "worldometers_total_cases": "6,760"
+    },
+    "Iran": {
+      "worldometers_deaths": "5,118",
+      "worldometers_total_cases": "82,211"
+    },
+    "Iraq": {
+      "worldometers_deaths": "82",
+      "worldometers_total_cases": "1,539"
+    },
+    "Ireland": {
+      "worldometers_deaths": "610",
+      "worldometers_total_cases": "15,251"
+    },
+    "Isle of Man": {
+      "worldometers_deaths": "6",
+      "worldometers_total_cases": "298"
+    },
+    "Israel": {
+      "worldometers_deaths": "173",
+      "worldometers_total_cases": "13,654"
+    },
+    "Italy": {
+      "worldometers_deaths": "23,660",
+      "worldometers_total_cases": "178,972"
+    },
+    "Jamaica": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "196"
+    },
+    "Japan": {
+      "worldometers_deaths": "249",
+      "worldometers_total_cases": "11,509"
+    },
+    "Jordan": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "417"
+    },
+    "Kazakhstan": {
+      "worldometers_deaths": "19",
+      "worldometers_total_cases": "1,757"
+    },
+    "Kenya": {
+      "worldometers_deaths": "14",
+      "worldometers_total_cases": "270"
+    },
+    "Kuwait": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "1,915"
+    },
+    "Kyrgyzstan": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "568"
+    },
+    "Laos": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "19"
+    },
+    "Latvia": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "739"
+    },
+    "Lebanon": {
+      "worldometers_deaths": "21",
+      "worldometers_total_cases": "673"
+    },
+    "Liberia": {
+      "worldometers_deaths": "8",
+      "worldometers_total_cases": "91"
+    },
+    "Libya": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "51"
+    },
+    "Liechtenstein": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "81"
+    },
+    "Lithuania": {
+      "worldometers_deaths": "37",
+      "worldometers_total_cases": "1,326"
+    },
+    "Luxembourg": {
+      "worldometers_deaths": "73",
+      "worldometers_total_cases": "3,550"
+    },
+    "MS Zaandam": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "9"
+    },
+    "Macao": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "45"
+    },
+    "Madagascar": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "121"
+    },
+    "Malawi": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "17"
+    },
+    "Malaysia": {
+      "worldometers_deaths": "89",
+      "worldometers_total_cases": "5,389"
+    },
+    "Maldives": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "52"
+    },
+    "Mali": {
+      "worldometers_deaths": "14",
+      "worldometers_total_cases": "224"
+    },
+    "Malta": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "427"
+    },
+    "Martinique": {
+      "worldometers_deaths": "12",
+      "worldometers_total_cases": "163"
+    },
+    "Mauritania": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "7"
+    },
+    "Mauritius": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "328"
+    },
+    "Mayotte": {
+      "worldometers_deaths": "4",
+      "worldometers_total_cases": "271"
+    },
+    "Mexico": {
+      "worldometers_deaths": "686",
+      "worldometers_total_cases": "8,261"
+    },
+    "Moldova": {
+      "worldometers_deaths": "67",
+      "worldometers_total_cases": "2,472"
+    },
+    "Monaco": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "94"
+    },
+    "Mongolia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "33"
+    },
+    "Montenegro": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "311"
+    },
+    "Montserrat": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "11"
+    },
+    "Morocco": {
+      "worldometers_deaths": "141",
+      "worldometers_total_cases": "2,855"
+    },
+    "Mozambique": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "39"
+    },
+    "Myanmar": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "111"
+    },
+    "Namibia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "16"
+    },
+    "Nepal": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "31"
+    },
+    "Netherlands": {
+      "worldometers_deaths": "3,684",
+      "worldometers_total_cases": "32,655"
+    },
+    "New Caledonia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "18"
+    },
+    "New Zealand": {
+      "worldometers_deaths": "12",
+      "worldometers_total_cases": "1,440"
+    },
+    "Nicaragua": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "10"
+    },
+    "Niger": {
+      "worldometers_deaths": "20",
+      "worldometers_total_cases": "648"
+    },
+    "Nigeria": {
+      "worldometers_deaths": "21",
+      "worldometers_total_cases": "627"
+    },
+    "North Macedonia": {
+      "worldometers_deaths": "51",
+      "worldometers_total_cases": "1,207"
+    },
+    "Norway": {
+      "worldometers_deaths": "165",
+      "worldometers_total_cases": "7,103"
+    },
+    "Oman": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "1,410"
+    },
+    "Pakistan": {
+      "worldometers_deaths": "176",
+      "worldometers_total_cases": "8,418"
+    },
+    "Panama": {
+      "worldometers_deaths": "126",
+      "worldometers_total_cases": "4,467"
+    },
+    "Papua New Guinea": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "7"
+    },
+    "Paraguay": {
+      "worldometers_deaths": "8",
+      "worldometers_total_cases": "208"
+    },
+    "Peru": {
+      "worldometers_deaths": "400",
+      "worldometers_total_cases": "15,628"
+    },
+    "Philippines": {
+      "worldometers_deaths": "428",
+      "worldometers_total_cases": "6,459"
+    },
+    "Poland": {
+      "worldometers_deaths": "362",
+      "worldometers_total_cases": "9,453"
+    },
+    "Portugal": {
+      "worldometers_deaths": "714",
+      "worldometers_total_cases": "20,206"
+    },
+    "Qatar": {
+      "worldometers_deaths": "8",
+      "worldometers_total_cases": "5,448"
+    },
+    "R&eacute;union": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "408"
+    },
+    "Romania": {
+      "worldometers_deaths": "451",
+      "worldometers_total_cases": "8,746"
+    },
+    "Russia": {
+      "worldometers_deaths": "405",
+      "worldometers_total_cases": "47,121"
+    },
+    "Rwanda": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "147"
+    },
+    "Saint Barthelemy": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "6"
+    },
+    "Saint Kitts  Nevis": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "15"
+    },
+    "Saint Lucia": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "15"
+    },
+    "Saint Martin": {
+      "worldometers_deaths": "2",
+      "worldometers_total_cases": "37"
+    },
+    "Saint Pierre  Miquelon": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "1"
+    },
+    "San Marino": {
+      "worldometers_deaths": "39",
+      "worldometers_total_cases": "461"
+    },
+    "Sao Tome  Principe": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "4"
+    },
+    "Saudi Arabia": {
+      "worldometers_deaths": "97",
+      "worldometers_total_cases": "9,362"
+    },
+    "Senegal": {
+      "worldometers_deaths": "4",
+      "worldometers_total_cases": "367"
+    },
+    "Serbia": {
+      "worldometers_deaths": "122",
+      "worldometers_total_cases": "6,318"
+    },
+    "Seychelles": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "11"
+    },
+    "Sierra Leone": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "35"
+    },
+    "Singapore": {
+      "worldometers_deaths": "11",
+      "worldometers_total_cases": "8,014"
+    },
+    "Sint Maarten": {
+      "worldometers_deaths": "10",
+      "worldometers_total_cases": "67"
+    },
+    "Slovakia": {
+      "worldometers_deaths": "12",
+      "worldometers_total_cases": "1,161"
+    },
+    "Slovenia": {
+      "worldometers_deaths": "77",
+      "worldometers_total_cases": "1,335"
+    },
+    "Somalia": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "164"
+    },
+    "South Africa": {
+      "worldometers_deaths": "54",
+      "worldometers_total_cases": "3,158"
+    },
+    "South Korea": {
+      "worldometers_deaths": "236",
+      "worldometers_total_cases": "10,674"
+    },
+    "South Sudan": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "4"
+    },
+    "Spain": {
+      "worldometers_deaths": "20,852",
+      "worldometers_total_cases": "200,210"
+    },
+    "Sri Lanka": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "295"
+    },
+    "St Vincent  Grenadines": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "12"
+    },
+    "State of Palestine": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "449"
+    },
+    "Sudan": {
+      "worldometers_deaths": "12",
+      "worldometers_total_cases": "92"
+    },
+    "Suriname": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "10"
+    },
+    "Sweden": {
+      "worldometers_deaths": "1,540",
+      "worldometers_total_cases": "14,385"
+    },
+    "Switzerland": {
+      "worldometers_deaths": "1,393",
+      "worldometers_total_cases": "27,740"
+    },
+    "Syria": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "39"
+    },
+    "Taiwan": {
+      "worldometers_deaths": "6",
+      "worldometers_total_cases": "422"
+    },
+    "Tanzania": {
+      "worldometers_deaths": "7",
+      "worldometers_total_cases": "170"
+    },
+    "Thailand": {
+      "worldometers_deaths": "47",
+      "worldometers_total_cases": "2,792"
+    },
+    "Timor-Leste": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "22"
+    },
+    "Togo": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "84"
+    },
+    "Trinidad and Tobago": {
+      "worldometers_deaths": "8",
+      "worldometers_total_cases": "114"
+    },
+    "Tunisia": {
+      "worldometers_deaths": "38",
+      "worldometers_total_cases": "879"
+    },
+    "Turkey": {
+      "worldometers_deaths": "2,017",
+      "worldometers_total_cases": "86,306"
+    },
+    "Turks and Caicos": {
+      "worldometers_deaths": "1",
+      "worldometers_total_cases": "11"
+    },
+    "Uganda": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "55"
+    },
+    "Ukraine": {
+      "worldometers_deaths": "151",
+      "worldometers_total_cases": "5,710"
+    },
+    "United Arab Emirates": {
+      "worldometers_deaths": "41",
+      "worldometers_total_cases": "6,781"
+    },
+    "United Kingdom": {
+      "worldometers_deaths": "16,060",
+      "worldometers_total_cases": "120,067"
+    },
+    "United States": {
+      "worldometers_deaths": "40,565",
+      "worldometers_total_cases": "764,265"
+    },
+    "Uruguay": {
+      "worldometers_deaths": "10",
+      "worldometers_total_cases": "528"
+    },
+    "Uzbekistan": {
+      "worldometers_deaths": "5",
+      "worldometers_total_cases": "1,565"
+    },
+    "Venezuela": {
+      "worldometers_deaths": "9",
+      "worldometers_total_cases": "256"
+    },
+    "Vietnam": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "268"
+    },
+    "Western Sahara": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "6"
+    },
+    "Yemen": {
+      "worldometers_deaths": "0",
+      "worldometers_total_cases": "1"
+    },
+    "Zambia": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "61"
+    },
+    "Zimbabwe": {
+      "worldometers_deaths": "3",
+      "worldometers_total_cases": "25"
+    }
+  },
+  "india-districts-data": {
+    "Adilabad": {
+      "covid19india_confirmed_cases": "16"
+    },
+    "Agar Malwa": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Agra": {
+      "covid19india_confirmed_cases": "242"
+    },
+    "Ahmadabad": {
+      "covid19india_confirmed_cases": "1192"
+    },
+    "Ahmadnagar": {
+      "covid19india_confirmed_cases": "29"
+    },
+    "Aizawl": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Ajmer": {
+      "covid19india_confirmed_cases": "24"
+    },
+    "Akola": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Alappuzha": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Alirajpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Almora": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Alwar": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Ambala": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Amravati": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Amritsar": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Amroha": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Anand": {
+      "covid19india_confirmed_cases": "28"
+    },
+    "Anantapur": {
+      "covid19india_confirmed_cases": "33"
+    },
+    "Anantnag": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Aravalli": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Ariyalur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Auraiya": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Aurangabad": {
+      "covid19india_confirmed_cases": "28"
+    },
+    "Azamgarh": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Badgam": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Bagalkote": {
+      "covid19india_confirmed_cases": "21"
+    },
+    "Baghpat": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Baleshwar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Ballari": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Banas Kantha": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Banda": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Bandipore": {
+      "covid19india_confirmed_cases": "83"
+    },
+    "Banswara": {
+      "covid19india_confirmed_cases": "61"
+    },
+    "Bara Banki": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Baramula": {
+      "covid19india_confirmed_cases": "43"
+    },
+    "Bareilly": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Barmer": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Barnala": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Barwani": {
+      "covid19india_confirmed_cases": "22"
+    },
+    "Basti": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Begusarai": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Belagavi": {
+      "covid19india_confirmed_cases": "42"
+    },
+    "Bengaluru": {
+      "covid19india_confirmed_cases": "100"
+    },
+    "Bengaluru Rural": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Betul": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Bhadohi": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Bhadradri Kothagudem": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Bhadrak": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Bhagalpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Bharatpur": {
+      "covid19india_confirmed_cases": "102"
+    },
+    "Bharuch": {
+      "covid19india_confirmed_cases": "23"
+    },
+    "Bhavnagar": {
+      "covid19india_confirmed_cases": "32"
+    },
+    "Bhilwara": {
+      "covid19india_confirmed_cases": "29"
+    },
+    "Bhiwani": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Bhojpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Bhopal": {
+      "covid19india_confirmed_cases": "197"
+    },
+    "Bid": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Bidar": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Bijnor": {
+      "covid19india_confirmed_cases": "22"
+    },
+    "Bikaner": {
+      "covid19india_confirmed_cases": "37"
+    },
+    "Bilaspur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Bokaro": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Botad": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Budaun": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Bulandshahr": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Buldana": {
+      "covid19india_confirmed_cases": "21"
+    },
+    "Buxar": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Cachar": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Chamba": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Chandigarh": {
+      "covid19india_confirmed_cases": "23"
+    },
+    "Chandrapur": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Charki Dadri": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Chengalpattu": {
+      "covid19india_confirmed_cases": "50"
+    },
+    "Chennai": {
+      "covid19india_confirmed_cases": "290"
+    },
+    "Chhindwara": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Chikkaballapura": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Chittoor": {
+      "covid19india_confirmed_cases": "53"
+    },
+    "Chota Udaipur": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Churu": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Coimbatore": {
+      "covid19india_confirmed_cases": "133"
+    },
+    "Cuddalore": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Cuttack": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Dahod": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Dakshina Kannada": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Dausa": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Davanagere": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Dehradun": {
+      "covid19india_confirmed_cases": "22"
+    },
+    "Dewas": {
+      "covid19india_confirmed_cases": "18"
+    },
+    "Dhanbad": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Dhar": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Dharwad": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Dhaulpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Dhenkanal": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Dhubri": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Dhule": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Dindigul": {
+      "covid19india_confirmed_cases": "74"
+    },
+    "Dungarpur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Durg": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "East Delhi": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "East Godavari": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "East Khasi Hills": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Ernakulam": {
+      "covid19india_confirmed_cases": "24"
+    },
+    "Erode": {
+      "covid19india_confirmed_cases": "70"
+    },
+    "Etawah": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Evacuees*": {
+      "covid19india_confirmed_cases": "60"
+    },
+    "Faridabad": {
+      "covid19india_confirmed_cases": "42"
+    },
+    "Faridkot": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Fatehabad": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Fatehgarh Sahib": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Firozabad": {
+      "covid19india_confirmed_cases": "48"
+    },
+    "Firozpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Gadag": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Ganderbal": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Gandhinagar": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Gautam Buddha Nagar": {
+      "covid19india_confirmed_cases": "95"
+    },
+    "Gaya": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Ghaziabad": {
+      "covid19india_confirmed_cases": "41"
+    },
+    "Ghazipur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Gir Somnath": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Giridih": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Goalpara": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Golaghat": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Gomati": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Gonda": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Gondiya": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Gopalganj": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Guntur": {
+      "covid19india_confirmed_cases": "148"
+    },
+    "Gurdaspur": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Gurugram": {
+      "covid19india_confirmed_cases": "36"
+    },
+    "Gwalior": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Hailakandi": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Hanumangarh": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Hapur": {
+      "covid19india_confirmed_cases": "16"
+    },
+    "Hardoi": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Haridwar": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Hathras": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Hazaribagh": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Hingoli": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Hisar": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Hooghly": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Hoshangabad": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Hoshiarpur": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Howrah": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Hyderabad": {
+      "covid19india_confirmed_cases": "486"
+    },
+    "Idukki": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Imphal East": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Imphal West": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Indore": {
+      "covid19india_confirmed_cases": "841"
+    },
+    "Italians*": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Jabalpur": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Jagitial": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Jaipur": {
+      "covid19india_confirmed_cases": "543"
+    },
+    "Jaisalmer": {
+      "covid19india_confirmed_cases": "32"
+    },
+    "Jajapur": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Jalandhar": {
+      "covid19india_confirmed_cases": "47"
+    },
+    "Jalgaon": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Jalna": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Jammu": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Jamnagar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Jangoan": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Jaunpur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Jayashankar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Jhalawar": {
+      "covid19india_confirmed_cases": "20"
+    },
+    "Jhunjhunu": {
+      "covid19india_confirmed_cases": "39"
+    },
+    "Jind": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Jodhpur": {
+      "covid19india_confirmed_cases": "230"
+    },
+    "Jogulamba Gadwal": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Jorhat": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Kachchh": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Kaithal": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Kalaburagi": {
+      "covid19india_confirmed_cases": "27"
+    },
+    "Kalahandi": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Kalimpong": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Kallakurichi": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Kamareddy": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Kamrup": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Kamrup Metropolitan": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Kancheepuram": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Kangra": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Kannauj": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Kanniyakumari": {
+      "covid19india_confirmed_cases": "16"
+    },
+    "Kannur": {
+      "covid19india_confirmed_cases": "86"
+    },
+    "Kanpur Nagar": {
+      "covid19india_confirmed_cases": "30"
+    },
+    "Kapurthala": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Karauli": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Kargil": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Karimnagar": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Karnal": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Karur": {
+      "covid19india_confirmed_cases": "41"
+    },
+    "Kasaragod": {
+      "covid19india_confirmed_cases": "169"
+    },
+    "Kasganj": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Kaushambi": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Kendrapara": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Khammam": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Khandwa": {
+      "covid19india_confirmed_cases": "33"
+    },
+    "Khargone": {
+      "covid19india_confirmed_cases": "39"
+    },
+    "Kheda": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Kheri": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Khordha": {
+      "covid19india_confirmed_cases": "46"
+    },
+    "Kishtwar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Kodagu": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Kodarma": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Kolhapur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Kolkata": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Kollam": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Korba": {
+      "covid19india_confirmed_cases": "28"
+    },
+    "Kota": {
+      "covid19india_confirmed_cases": "101"
+    },
+    "Kottayam": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Kozhikode": {
+      "covid19india_confirmed_cases": "20"
+    },
+    "Krishna": {
+      "covid19india_confirmed_cases": "80"
+    },
+    "Kulgam": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Kumuram Bheem Asifabad": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Kupwara": {
+      "covid19india_confirmed_cases": "27"
+    },
+    "Kurnool": {
+      "covid19india_confirmed_cases": "174"
+    },
+    "Kurukshetra": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Lakhimpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Lakhisarai": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Latur": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Leh": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Lohit": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Lucknow": {
+      "covid19india_confirmed_cases": "162"
+    },
+    "Ludhiana": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Madurai": {
+      "covid19india_confirmed_cases": "46"
+    },
+    "Mahabubabad": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Mahabubnagar": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Mahe": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Mahesana": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Mahisagar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Mahrajganj": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Mainpuri": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Malappuram": {
+      "covid19india_confirmed_cases": "20"
+    },
+    "Mandsaur": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Mandya": {
+      "covid19india_confirmed_cases": "12"
+    },
+    "Mansa": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Mathura": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Mau": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Medak": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Medchal Malkajgiri": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Medinipur East": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Meerut": {
+      "covid19india_confirmed_cases": "74"
+    },
+    "Mirzapur": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Moga": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Moradabad": {
+      "covid19india_confirmed_cases": "57"
+    },
+    "Morbi": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Morena": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Morigaon": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Mulugu": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Mumbai": {
+      "covid19india_confirmed_cases": "2268"
+    },
+    "Munger": {
+      "covid19india_confirmed_cases": "20"
+    },
+    "Muzaffarnagar": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Mysuru": {
+      "covid19india_confirmed_cases": "84"
+    },
+    "Nadia": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Nagapattinam": {
+      "covid19india_confirmed_cases": "43"
+    },
+    "Nagarkurnool": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Nagaur": {
+      "covid19india_confirmed_cases": "59"
+    },
+    "Nagpur": {
+      "covid19india_confirmed_cases": "60"
+    },
+    "Nainital": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Nalanda": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Nalbari": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Nalgonda": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Namakkal": {
+      "covid19india_confirmed_cases": "50"
+    },
+    "Nandurbar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Narmada": {
+      "covid19india_confirmed_cases": "12"
+    },
+    "Nashik": {
+      "covid19india_confirmed_cases": "53"
+    },
+    "Nawada": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "New Delhi": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Nirmal": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Nizamabad": {
+      "covid19india_confirmed_cases": "58"
+    },
+    "North 24 Parganas": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "North Delhi": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "North East Delhi": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "North Goa": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "North Tripura": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "North West Delhi": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "North and Middle Andaman": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Nuh": {
+      "covid19india_confirmed_cases": "57"
+    },
+    "Osmanabad": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Other Region*": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Other States*": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Palakkad": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Palghar": {
+      "covid19india_confirmed_cases": "83"
+    },
+    "Pali": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Palwal": {
+      "covid19india_confirmed_cases": "34"
+    },
+    "Panch Mahals": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Panchkula": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Panipat": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Parbhani": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Patan": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Pathanamthitta": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Pathankot": {
+      "covid19india_confirmed_cases": "24"
+    },
+    "Patiala": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Patna": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Pauri Garhwal": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Peddapalli": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Perambalur": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Pilibhit": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Porbandar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Prakasam": {
+      "covid19india_confirmed_cases": "44"
+    },
+    "Pratapgarh": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Prayagraj": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Puducherry": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Pulwama": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Pune": {
+      "covid19india_confirmed_cases": "591"
+    },
+    "Puri": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Rae Bareli": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Raigarh": {
+      "covid19india_confirmed_cases": "42"
+    },
+    "Raipur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Raisen": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Rajanna Sircilla": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Rajkot": {
+      "covid19india_confirmed_cases": "38"
+    },
+    "Rajnandgaon": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Rajouri": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Ramanathapuram": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Rampur": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Ranchi": {
+      "covid19india_confirmed_cases": "24"
+    },
+    "Ranga Reddy": {
+      "covid19india_confirmed_cases": "25"
+    },
+    "Ranipet": {
+      "covid19india_confirmed_cases": "38"
+    },
+    "Ratlam": {
+      "covid19india_confirmed_cases": "12"
+    },
+    "Ratnagiri": {
+      "covid19india_confirmed_cases": "6"
+    },
+    "Rohtak": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Rupnagar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "SAS Nagar": {
+      "covid19india_confirmed_cases": "61"
+    },
+    "SPS Nellore": {
+      "covid19india_confirmed_cases": "68"
+    },
+    "Sabar Kantha": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Sagar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Saharanpur": {
+      "covid19india_confirmed_cases": "72"
+    },
+    "Salem": {
+      "covid19india_confirmed_cases": "24"
+    },
+    "Samba": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Sambhal": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Sangareddy": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "Sangli": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Sangrur": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Sant Kabir Nagar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Saran": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Satara": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Satna": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Sawai Madhopur": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Shahid Bhagat Singh Nagar": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Shahjahanpur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Shajapur": {
+      "covid19india_confirmed_cases": "5"
+    },
+    "Shamli": {
+      "covid19india_confirmed_cases": "23"
+    },
+    "Sheopur": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Shivpuri": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Shupiyan": {
+      "covid19india_confirmed_cases": "22"
+    },
+    "Siddipet": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Sikar": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Simdega": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Sindhudurg": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Sirmaur": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Sirsa": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Sitapur": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Sivaganga": {
+      "covid19india_confirmed_cases": "11"
+    },
+    "Siwan": {
+      "covid19india_confirmed_cases": "29"
+    },
+    "Solan": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Solapur": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Sonipat": {
+      "covid19india_confirmed_cases": "7"
+    },
+    "South 24 Parganas": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "South Andaman": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "South Delhi": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "South Salmara Mancachar": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "South West Delhi": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Sri Muktsar Sahib": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Srinagar": {
+      "covid19india_confirmed_cases": "78"
+    },
+    "Sundargarh": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "Surat": {
+      "covid19india_confirmed_cases": "244"
+    },
+    "Suryapet": {
+      "covid19india_confirmed_cases": "43"
+    },
+    "Tenkasi": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Thane": {
+      "covid19india_confirmed_cases": "341"
+    },
+    "Thanjavur": {
+      "covid19india_confirmed_cases": "45"
+    },
+    "The Nilgiris": {
+      "covid19india_confirmed_cases": "9"
+    },
+    "Theni": {
+      "covid19india_confirmed_cases": "44"
+    },
+    "Thiruvallur": {
+      "covid19india_confirmed_cases": "47"
+    },
+    "Thiruvananthapuram": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Thiruvarur": {
+      "covid19india_confirmed_cases": "27"
+    },
+    "Thoothukkudi": {
+      "covid19india_confirmed_cases": "26"
+    },
+    "Thrissur": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Tikamgarh": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Tiruchirappalli": {
+      "covid19india_confirmed_cases": "46"
+    },
+    "Tirunelveli": {
+      "covid19india_confirmed_cases": "64"
+    },
+    "Tirupathur": {
+      "covid19india_confirmed_cases": "17"
+    },
+    "Tiruppur": {
+      "covid19india_confirmed_cases": "108"
+    },
+    "Tiruvannamalai": {
+      "covid19india_confirmed_cases": "8"
+    },
+    "Tonk": {
+      "covid19india_confirmed_cases": "95"
+    },
+    "Tumakuru": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Udaipur": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Udham Singh Nagar": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Udhampur": {
+      "covid19india_confirmed_cases": "20"
+    },
+    "Udupi": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Ujjain": {
+      "covid19india_confirmed_cases": "31"
+    },
+    "Una": {
+      "covid19india_confirmed_cases": "15"
+    },
+    "Unknown": {
+      "covid19india_confirmed_cases": "4"
+    },
+    "Unnao": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Uttara Kannada": {
+      "covid19india_confirmed_cases": "10"
+    },
+    "Vadodara": {
+      "covid19india_confirmed_cases": "181"
+    },
+    "Vaishali": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Varanasi": {
+      "covid19india_confirmed_cases": "14"
+    },
+    "Vellore": {
+      "covid19india_confirmed_cases": "23"
+    },
+    "Vidisha": {
+      "covid19india_confirmed_cases": "13"
+    },
+    "Vijayapura": {
+      "covid19india_confirmed_cases": "21"
+    },
+    "Vikarabad": {
+      "covid19india_confirmed_cases": "37"
+    },
+    "Viluppuram": {
+      "covid19india_confirmed_cases": "37"
+    },
+    "Virudhunagar": {
+      "covid19india_confirmed_cases": "19"
+    },
+    "Visakhapatnam": {
+      "covid19india_confirmed_cases": "21"
+    },
+    "Warangal Urban": {
+      "covid19india_confirmed_cases": "21"
+    },
+    "Washim": {
+      "covid19india_confirmed_cases": "1"
+    },
+    "Wayanad": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "West Delhi": {
+      "covid19india_confirmed_cases": "2"
+    },
+    "West Godavari": {
+      "covid19india_confirmed_cases": "35"
+    },
+    "YSR": {
+      "covid19india_confirmed_cases": "40"
+    },
+    "Yamunanagar": {
+      "covid19india_confirmed_cases": "3"
+    },
+    "Yavatmal": {
+      "covid19india_confirmed_cases": "13"
+    }
+  },
+  "india-mohfw-news-updates": {
+    "0lNbODaW1sLFdKe9g9KkyeAks7n2Md": {
+      "news_text": " Information for general public on use of necessary medicines for COVID19 (Poster)     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/HCQPosterFinal.pdf"
+    },
+    "DOaoOE4HUrjiX1QOIOQoIhxhHYK6PA": {
+      "news_text": "  Guidelines to be followed on detection of suspect or confirmed COVID-19 case in a non-COVID Health Facility     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/GuidelinestobefollowedondetectionofsuspectorconfirmedCOVID19case.pdf"
+    },
+    "GOYpNEwjHgs9UbwmDztUanIhhn7MKm": {
+      "news_text": "  EoI cum Bid Document for Procurement of Medical Oxygen Cylinder on urgent basis during COVID 19 situation     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/MedicalOxygenCylinder.pdf"
+    },
+    "J89UufV34Swzdd0S8fH26wijCs8Guj": {
+      "news_text": "  Consolidated Revised Guidelines on the measures to be taken by Ministries/Department of Government of India, State/UT Governments for containment of Covid-19 ",
+      "news_url": "https://www.mohfw.gov.in/pdf/consolidatedrevisedguidelines.pdf"
+    },
+    "PerY8Wd40iXxRaKS3T7KVehdxTGGza": {
+      "news_text": "   Webinar on Mechanical Ventilation for physicians by AIIMS, New Delhi     ",
+      "news_url": "https://youtu.be/l_HQTG8MvMU"
+    },
+    "Vso5RcJVUEndXkeN9XCZmkhUCYSm4H": {
+      "news_text": "   Directions from Ministry of Home Affairs to State for promotion of Voluntary Blood Donation     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/LetterforUploadingtoWebsite.pdf"
+    },
+    "X0am51zPXtukGrFVfOTROfc59O42b9": {
+      "news_text": "   Preventive Measures to be taken by officals of Ministry of Health and Family Welfare     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/preventiveorders.pdf"
+    },
+    "ZpproxnCCoVzVNKFFNzMyv1PJzJpfj": {
+      "news_text": "   Advisory against spraying of disinfectant on people for COVID-19 management     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/AdvisoryagainstsprayingofdisinfectantonpeopleforCOVID19managementFinal.pdf"
+    },
+    "nRKX2JlRSGIuNejEZjNT2gl0j7ruhU": {
+      "news_text": " Updated Containment Plan for Large Outbreaks of COVID-19     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/UpdatedContainmentPlanforLargeOutbreaksofCOVID19Version2.0.pdf"
+    },
+    "oNzbZoP9kQB6wPRKZ8TJtsY3Mqa9tX": {
+      "news_text": " Guidelines issued by ICMR for Rapid antibody test in Hotspot Area     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/ProtocolRapidAntibodytest.pdf"
+    },
+    "rFMbCOUXGNEphrEB6DUTxW9SXtZpYg": {
+      "news_text": " Webinar schedule for training of Physicians officers on COVID-19 and Mechanical Ventilation by AIIMS New Delhi     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/MechanicalVentilationWebinarAIIMSNewDelhi.pdf"
+    },
+    "vratQY7niPDLYyWvVA4oufLdx3AEPl": {
+      "news_text": " Information for general public on use of necessary medicines for COVID19 - Audio Visual     ",
+      "news_url": "https://youtu.be/cQBo6Bbk0_A"
+    },
+    "zeIYF7w3J8rEImrs26gBTO6UEPuneJ": {
+      "news_text": "  Modification in Medicine List in Telemedicine Practice Guidelines     ",
+      "news_url": "https://www.mohfw.gov.in/pdf/ModificationinMedicineListinTelemedicinePracticeGuidelines.pdf"
+    }
+  },
+  "india-states-data": {
+    "Andaman and Nicobar Islands": {
+      "covid19india_active_cases": "4",
+      "covid19india_confirmed": "15",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "19/04/2020 16:04:06",
+      "covid19india_recovered": "11",
+      "covid19india_state_code": "AN",
+      "covid19india_state_name": "Andaman and Nicobar Islands"
+    },
+    "Andhra Pradesh": {
+      "covid19india_active_cases": "610",
+      "covid19india_confirmed": "722",
+      "covid19india_deaths": "20",
+      "covid19india_last_updated": "19/04/2020 15:35:05",
+      "covid19india_recovered": "92",
+      "covid19india_state_code": "AP",
+      "covid19india_state_name": "Andhra Pradesh"
+    },
+    "Arunachal Pradesh": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "1",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "16/04/2020 19:33:11",
+      "covid19india_recovered": "1",
+      "covid19india_state_code": "AR",
+      "covid19india_state_name": "Arunachal Pradesh"
+    },
+    "Assam": {
+      "covid19india_active_cases": "17",
+      "covid19india_confirmed": "35",
+      "covid19india_deaths": "1",
+      "covid19india_last_updated": "20/04/2020 08:45:06",
+      "covid19india_recovered": "17",
+      "covid19india_state_code": "AS",
+      "covid19india_state_name": "Assam"
+    },
+    "Bihar": {
+      "covid19india_active_cases": "52",
+      "covid19india_confirmed": "96",
+      "covid19india_deaths": "2",
+      "covid19india_last_updated": "20/04/2020 01:09:14",
+      "covid19india_recovered": "42",
+      "covid19india_state_code": "BR",
+      "covid19india_state_name": "Bihar"
+    },
+    "Chandigarh": {
+      "covid19india_active_cases": "13",
+      "covid19india_confirmed": "26",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "19/04/2020 17:45:25",
+      "covid19india_recovered": "13",
+      "covid19india_state_code": "CH",
+      "covid19india_state_name": "Chandigarh"
+    },
+    "Chhattisgarh": {
+      "covid19india_active_cases": "11",
+      "covid19india_confirmed": "36",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "18/04/2020 19:36:06",
+      "covid19india_recovered": "25",
+      "covid19india_state_code": "CT",
+      "covid19india_state_name": "Chhattisgarh"
+    },
+    "Dadra and Nagar Haveli": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "0",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "17/04/2020 15:03:07",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "DN",
+      "covid19india_state_name": "Dadra and Nagar Haveli"
+    },
+    "Daman and Diu": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "0",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "26/03/2020 07:19:29",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "DD",
+      "covid19india_state_name": "Daman and Diu"
+    },
+    "Delhi": {
+      "covid19india_active_cases": "1668",
+      "covid19india_confirmed": "2003",
+      "covid19india_deaths": "45",
+      "covid19india_last_updated": "19/04/2020 23:18:08",
+      "covid19india_recovered": "290",
+      "covid19india_state_code": "DL",
+      "covid19india_state_name": "Delhi"
+    },
+    "Goa": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "7",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "19/04/2020 17:04:07",
+      "covid19india_recovered": "7",
+      "covid19india_state_code": "GA",
+      "covid19india_state_name": "Goa"
+    },
+    "Gujarat": {
+      "covid19india_active_cases": "1678",
+      "covid19india_confirmed": "1851",
+      "covid19india_deaths": "67",
+      "covid19india_last_updated": "19/04/2020 20:25:15",
+      "covid19india_recovered": "106",
+      "covid19india_state_code": "GJ",
+      "covid19india_state_name": "Gujarat"
+    },
+    "Haryana": {
+      "covid19india_active_cases": "143",
+      "covid19india_confirmed": "250",
+      "covid19india_deaths": "3",
+      "covid19india_last_updated": "19/04/2020 19:39:06",
+      "covid19india_recovered": "104",
+      "covid19india_state_code": "HR",
+      "covid19india_state_name": "Haryana"
+    },
+    "Himachal Pradesh": {
+      "covid19india_active_cases": "21",
+      "covid19india_confirmed": "39",
+      "covid19india_deaths": "2",
+      "covid19india_last_updated": "18/04/2020 19:15:06",
+      "covid19india_recovered": "16",
+      "covid19india_state_code": "HP",
+      "covid19india_state_name": "Himachal Pradesh"
+    },
+    "Jammu and Kashmir": {
+      "covid19india_active_cases": "293",
+      "covid19india_confirmed": "354",
+      "covid19india_deaths": "5",
+      "covid19india_last_updated": "20/04/2020 01:09:13",
+      "covid19india_recovered": "56",
+      "covid19india_state_code": "JK",
+      "covid19india_state_name": "Jammu and Kashmir"
+    },
+    "Jharkhand": {
+      "covid19india_active_cases": "39",
+      "covid19india_confirmed": "41",
+      "covid19india_deaths": "2",
+      "covid19india_last_updated": "19/04/2020 21:23:09",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "JH",
+      "covid19india_state_name": "Jharkhand"
+    },
+    "Karnataka": {
+      "covid19india_active_cases": "268",
+      "covid19india_confirmed": "395",
+      "covid19india_deaths": "16",
+      "covid19india_last_updated": "19/04/2020 18:06:06",
+      "covid19india_recovered": "111",
+      "covid19india_state_code": "KA",
+      "covid19india_state_name": "Karnataka"
+    },
+    "Kerala": {
+      "covid19india_active_cases": "129",
+      "covid19india_confirmed": "401",
+      "covid19india_deaths": "2",
+      "covid19india_last_updated": "19/04/2020 18:06:06",
+      "covid19india_recovered": "270",
+      "covid19india_state_code": "KL",
+      "covid19india_state_name": "Kerala"
+    },
+    "Ladakh": {
+      "covid19india_active_cases": "4",
+      "covid19india_confirmed": "18",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "16/04/2020 15:13:07",
+      "covid19india_recovered": "14",
+      "covid19india_state_code": "LA",
+      "covid19india_state_name": "Ladakh"
+    },
+    "Lakshadweep": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "0",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "26/03/2020 07:19:29",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "LD",
+      "covid19india_state_name": "Lakshadweep"
+    },
+    "Madhya Pradesh": {
+      "covid19india_active_cases": "1204",
+      "covid19india_confirmed": "1407",
+      "covid19india_deaths": "72",
+      "covid19india_last_updated": "19/04/2020 19:59:06",
+      "covid19india_recovered": "131",
+      "covid19india_state_code": "MP",
+      "covid19india_state_name": "Madhya Pradesh"
+    },
+    "Maharashtra": {
+      "covid19india_active_cases": "3470",
+      "covid19india_confirmed": "4200",
+      "covid19india_deaths": "223",
+      "covid19india_last_updated": "19/04/2020 21:03:06",
+      "covid19india_recovered": "507",
+      "covid19india_state_code": "MH",
+      "covid19india_state_name": "Maharashtra"
+    },
+    "Manipur": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "2",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "20/04/2020 10:04:08",
+      "covid19india_recovered": "2",
+      "covid19india_state_code": "MN",
+      "covid19india_state_name": "Manipur"
+    },
+    "Meghalaya": {
+      "covid19india_active_cases": "10",
+      "covid19india_confirmed": "11",
+      "covid19india_deaths": "1",
+      "covid19india_last_updated": "18/04/2020 12:38:07",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "ML",
+      "covid19india_state_name": "Meghalaya"
+    },
+    "Mizoram": {
+      "covid19india_active_cases": "1",
+      "covid19india_confirmed": "1",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "26/03/2020 07:19:29",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "MZ",
+      "covid19india_state_name": "Mizoram"
+    },
+    "Nagaland": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "0",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "20/04/2020 08:45:07",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "NL",
+      "covid19india_state_name": "Nagaland"
+    },
+    "Odisha": {
+      "covid19india_active_cases": "43",
+      "covid19india_confirmed": "68",
+      "covid19india_deaths": "1",
+      "covid19india_last_updated": "20/04/2020 09:25:15",
+      "covid19india_recovered": "24",
+      "covid19india_state_code": "OR",
+      "covid19india_state_name": "Odisha"
+    },
+    "Puducherry": {
+      "covid19india_active_cases": "3",
+      "covid19india_confirmed": "7",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "19/04/2020 08:25:07",
+      "covid19india_recovered": "4",
+      "covid19india_state_code": "PY",
+      "covid19india_state_name": "Puducherry"
+    },
+    "Punjab": {
+      "covid19india_active_cases": "191",
+      "covid19india_confirmed": "244",
+      "covid19india_deaths": "16",
+      "covid19india_last_updated": "19/04/2020 20:39:06",
+      "covid19india_recovered": "37",
+      "covid19india_state_code": "PB",
+      "covid19india_state_name": "Punjab"
+    },
+    "Rajasthan": {
+      "covid19india_active_cases": "1266",
+      "covid19india_confirmed": "1495",
+      "covid19india_deaths": "24",
+      "covid19india_last_updated": "20/04/2020 10:04:06",
+      "covid19india_recovered": "205",
+      "covid19india_state_code": "RJ",
+      "covid19india_state_name": "Rajasthan"
+    },
+    "Sikkim": {
+      "covid19india_active_cases": "0",
+      "covid19india_confirmed": "0",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "26/03/2020 07:19:29",
+      "covid19india_recovered": "0",
+      "covid19india_state_code": "SK",
+      "covid19india_state_name": "Sikkim"
+    },
+    "Tamil Nadu": {
+      "covid19india_active_cases": "1051",
+      "covid19india_confirmed": "1477",
+      "covid19india_deaths": "15",
+      "covid19india_last_updated": "19/04/2020 18:44:11",
+      "covid19india_recovered": "411",
+      "covid19india_state_code": "TN",
+      "covid19india_state_name": "Tamil Nadu"
+    },
+    "Telangana": {
+      "covid19india_active_cases": "651",
+      "covid19india_confirmed": "858",
+      "covid19india_deaths": "21",
+      "covid19india_last_updated": "19/04/2020 21:23:08",
+      "covid19india_recovered": "186",
+      "covid19india_state_code": "TG",
+      "covid19india_state_name": "Telangana"
+    },
+    "Total": {
+      "covid19india_active_cases": "14091",
+      "covid19india_confirmed": "17545",
+      "covid19india_deaths": "567",
+      "covid19india_last_updated": "20/04/2020 10:04:05",
+      "covid19india_recovered": "2887",
+      "covid19india_state_code": "TT",
+      "covid19india_state_name": "Total"
+    },
+    "Tripura": {
+      "covid19india_active_cases": "1",
+      "covid19india_confirmed": "2",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "10/04/2020 20:00:27",
+      "covid19india_recovered": "1",
+      "covid19india_state_code": "TR",
+      "covid19india_state_name": "Tripura"
+    },
+    "Uttar Pradesh": {
+      "covid19india_active_cases": "956",
+      "covid19india_confirmed": "1100",
+      "covid19india_deaths": "17",
+      "covid19india_last_updated": "20/04/2020 01:09:12",
+      "covid19india_recovered": "127",
+      "covid19india_state_code": "UP",
+      "covid19india_state_name": "Uttar Pradesh"
+    },
+    "Uttarakhand": {
+      "covid19india_active_cases": "33",
+      "covid19india_confirmed": "44",
+      "covid19india_deaths": "0",
+      "covid19india_last_updated": "18/04/2020 15:26:17",
+      "covid19india_recovered": "11",
+      "covid19india_state_code": "UT",
+      "covid19india_state_name": "Uttarakhand"
+    },
+    "West Bengal": {
+      "covid19india_active_cases": "261",
+      "covid19india_confirmed": "339",
+      "covid19india_deaths": "12",
+      "covid19india_last_updated": "20/04/2020 09:25:14",
+      "covid19india_recovered": "66",
+      "covid19india_state_code": "WB",
+      "covid19india_state_name": "West Bengal"
+    }
+  },
+  "india-states-helplineumber": {
+    "Andaman and Nicobar Islands": {
+      "helpline_no": "03192-232102"
+    },
+    "Andhra Pradesh": {
+      "helpline_no": "0866-2410978"
+    },
+    "Arunachal Pradesh": {
+      "helpline_no": "9436055743"
+    },
+    "Assam": {
+      "helpline_no": "6913347770"
+    },
+    "Bihar": {
+      "helpline_no": "104"
+    },
+    "Chandigarh": {
+      "helpline_no": "104"
+    },
+    "Chhattisgarh": {
+      "helpline_no": "104"
+    },
+    "Delhi": {
+      "helpline_no": "011-22307145"
+    },
+    "Goa": {
+      "helpline_no": "104"
+    },
+    "Gujarat": {
+      "helpline_no": "104"
+    },
+    "Haryana": {
+      "helpline_no": "8558893911"
+    },
+    "Himachal Pradesh": {
+      "helpline_no": "104"
+    },
+    "Jammu and Kashmir": {
+      "helpline_no": "01912520982, 0194-2440283"
+    },
+    "Jharkhand": {
+      "helpline_no": "104"
+    },
+    "Karnataka": {
+      "helpline_no": "104"
+    },
+    "Kerala": {
+      "helpline_no": "0471-2552056"
+    },
+    "Ladakh": {
+      "helpline_no": "01982256462"
+    },
+    "Madhya Pradesh": {
+      "helpline_no": "104"
+    },
+    "Maharashtra": {
+      "helpline_no": "020-26127394"
+    },
+    "Manipur": {
+      "helpline_no": "3852411668"
+    },
+    "Mizoram": {
+      "helpline_no": "102"
+    },
+    "Odisha": {
+      "helpline_no": "9439994859"
+    },
+    "Puducherry": {
+      "helpline_no": "104"
+    },
+    "Punjab": {
+      "helpline_no": "104"
+    },
+    "Rajasthan": {
+      "helpline_no": "0141-2225624"
+    },
+    "Tamil Nadu": {
+      "helpline_no": "044-29510500"
+    },
+    "Telengana": {
+      "helpline_no": "104"
+    },
+    "Uttar Pradesh": {
+      "helpline_no": "18001805145"
+    },
+    "Uttarakhand": {
+      "helpline_no": "104"
+    },
+    "West Bengal": {
+      "helpline_no": "1800313444222, 03323412600"
+    }
+  }
+}
